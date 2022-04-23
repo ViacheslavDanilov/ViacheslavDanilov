@@ -59,8 +59,5 @@
 
 ### ℹ️ Stats
 
-| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&count_private=true&show_icons=true)  | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=matlab&layout=compact)](https://github.com/ViacheslavDanilov)  |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
-
-
+| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=matlab&layout=compact&hide_border=true)](https://github.com/ViacheslavDanilov) |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
