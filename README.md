@@ -97,3 +97,7 @@
   <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a><br>
   <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&hide_border=true"></a><br>
 </p>
+
+<p align="right">
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge"></a>
+</p>
