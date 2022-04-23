@@ -1,7 +1,12 @@
-<h2 align="center">
+<h3 align="center">
   Welcome to Viacheslav Danilov's profile!
   <img src="media/waving_hand.gif" width="32px">
-</h2>
+</h3>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=4500&color=2492D4&center=true&vCenter=true&width=450&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;7%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -88,26 +93,17 @@
 
 ## ℹ️ Stats
 
-| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true)](https://github.com/ViacheslavDanilov) |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+[//]: # (| ![Viacheslav's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&#41; | [![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true&#41;]&#40;https://github.com/ViacheslavDanilov&#41; |)
 
-[//]: # (**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)
+[//]: # (|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|)
 
-
-| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ViacheslavDanilov) |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
-[//]: # (<p align="center">)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true)
-
-
-https://dabuttonfactory.com/button.png?t=Download+CV&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798
-
-
-[//]: # (</p>>)
-
-[//]: # (**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)
-
+<p align="center">
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <br/>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true"></a>
+</p>
 
 [//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://github.com/ViacheslavDanilov&#41;)
