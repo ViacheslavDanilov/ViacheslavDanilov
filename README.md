@@ -1,4 +1,34 @@
-## Welcome to Viacheslav Danilov's profile!  👋
+<h2 align="center">
+  Welcome to Viacheslav Danilov's profile!
+  <img src="media/waving_hand.gif" width="32px">
+</h2>
+
+<!-- Social icons section -->
+<p align="center">
+    <a href="mailto:viacheslav.v.danilov@gmail.com"><img width="32px" alt="Email" title="Email" src="media/email.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://wa.me/+79521825567"><img width="32px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://join.skype.com/invite/gvkeO9eLSHa6"><img width="32px" alt="Skype" title="Skype" src="media/skype.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://opendatascience.slack.com/team/UBV89HDAA"><img width="32px" alt="Slack" title="Slack" src="media/slack.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img width="32px" alt="Google Scholar" title="Google Scholar" src="media/google_scholar.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://orcid.org/0000-0002-1413-1381"><img width="32px" alt="ORCID" title="ORCID" src="media/orcid.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img width="32px" alt="Research Gate" title="Research Gate" src="media/rg.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<p align="center">
+    <a href="https://sites.google.com/view/viacheslav-danilov"><img width="125px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://drive.google.com/file/d/1wt79OJXWxjrkjLJgpziJMB6jwH86olO2/view?usp=sharing"><img width="125px" alt="PCV" title="CV" src="media/cv.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 ## ℹ️ About me
 
@@ -7,7 +37,6 @@
 - 👨🏻‍🎓 PhD in Computer Science ([PhD diploma](https://drive.google.com/file/d/1UxAkmy8yy4Me02Ib4KoywU9_3gIDQMWB/view?usp=sharing), [PhD thesis](https://drive.google.com/file/d/1wRx6LUd0bCgUoZHiR9Bbs6MheT9jK9DC/view?usp=sharing), [PhD thesis abstract](https://drive.google.com/file/d/1wqWl1wTnSe3KRrsYF-SXDU3WR1jaQ1oj/view?usp=sharing))
 - 👨🏻‍💻 Senior ML Engineer at [Intelerad Medical Systems](https://www.intelerad.com/en/)
 - 👨🏻‍🔬 Senior Research Scientist at [Tomsk Polytechnic University](https://tpu.ru/en/research/research_units/international_labs/big_data_lab)
-- 📫 How to reach me: [viacheslav.v.danilov@gmail.com](mailto:viacheslav.v.danilov@gmail.com) (Personal) or [viacheslav.danilov@intelerad.com](mailto:viacheslav.danilov@intelerad.com) (Work)
 
 ## ℹ️ Projects
 
@@ -67,6 +96,16 @@
 
 | ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ViacheslavDanilov) |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+[//]: # (<p align="center">)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true)
+
+
+https://dabuttonfactory.com/button.png?t=Download+CV&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798
+
+
+[//]: # (</p>>)
 
 [//]: # (**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)
 
