@@ -1,6 +1,6 @@
-## Hi there, I am Viacheslav 👋
+## Welcome to Viacheslav Danilov's profile!  👋
 
-### ℹ️ About me
+## ℹ️ About me
 
 **Senior ML Engineer** and **Senior Research Scientist** specializing in data science, data analysis, and machine learning development. Having around 6+ years of experience as an ML Engineer in the IT industry and as a Scientific Researcher in the academy. Experienced with all stages of the development cycle for dynamic AI projects. Well-versed in numerous programming languages and frameworks including Python, R, TensorFlow, Keras, PyTorch. Extensively worked on ML tasks using a wide variety of AWS services like EC2, IAM, S3, ECR, and SageMaker. Strong background in data analysis, mathematical modeling, image processing, and visualization.
 
@@ -9,7 +9,7 @@
 - 👨🏻‍🔬 Senior Research Scientist at [Tomsk Polytechnic University](https://tpu.ru/en/research/research_units/international_labs/big_data_lab)
 - 📫 How to reach me: [viacheslav.v.danilov@gmail.com](mailto:viacheslav.v.danilov@gmail.com) (Personal) or [viacheslav.danilov@intelerad.com](mailto:viacheslav.danilov@intelerad.com) (Work)
 
-### ℹ️ Projects
+## ℹ️ Projects
 
 - Automatic scoring of COVID-19 severity in X-ray imaging ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-scoring), article (under review))
 - Face obfuscation and anonymization on 3D medical data ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/face-obfuscation))
@@ -19,14 +19,14 @@
 - Aortography keypoint tracking for TAVI ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/keypoint-tracking), [article](https://www.frontiersin.org/articles/10.3389/fcvm.2021.697737/full), [interactive report](https://wandb.ai/viacheslav_danilov/tavr_keypoint_tracking/reports/Keypoint-tracking-and-classification--Vmlldzo3ODIyNQ))
 - Segmentation of a medical device during minimally invasive surgery ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/segmentation-of-medical-devices))
 
-### ℹ️ Datasets
+## ℹ️ Datasets
 
 - [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
 - [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
 - [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
 - [Aortography keypoint tracking for TAVI](https://data.mendeley.com/datasets/pgynfy766g/2)
 
-### ℹ️ Publications
+## ℹ️ Publications
 
 <details><summary>Journal Articles</summary>
 
@@ -57,7 +57,18 @@
 |                                      [FABRIK-based inverse kinematics for multi-section continuum robots](https://ieeexplore.ieee.org/document/8624888)                                      |                                    [18th International Conference on Mechatronics](https://mechatronika.fel.cvut.cz/2018/index.html)                                     |   Brno, Czech Republic   | 2018 |
 </details>
 
-### ℹ️ Stats
+## ℹ️ Stats
 
-| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=matlab&layout=compact&hide_border=true)](https://github.com/ViacheslavDanilov) |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true)](https://github.com/ViacheslavDanilov) |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+[//]: # (**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)
+
+
+| ![Viacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ViacheslavDanilov) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+[//]: # (**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)
+
+
+[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://github.com/ViacheslavDanilov&#41;)
