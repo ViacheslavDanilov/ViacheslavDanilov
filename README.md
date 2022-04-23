@@ -77,7 +77,6 @@
 |                     [Feature selection algorithm based on PDF/PMF area difference](https://www.sciencedirect.com/science/article/pii/S1746809419302629)                      | [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) |    Q2    | 3.9 | 2020 |
 |         [Efficient workflow for automatic segmentation of the right heart based on 2D echocardiography](https://link.springer.com/article/10.1007/s10554-018-1314-4)         |                 [International Journal of Cardiovascular Imaging](https://www.springer.com/journal/10554)                  |    Q2    | 2.4 | 2018 |
 </details>
-<br/>
 
 <details><summary>Conference Proceedings</summary>
 
@@ -93,17 +92,8 @@
 
 ## ℹ️ Stats
 
-[//]: # (| ![Viacheslav's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&#41; | [![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true&#41;]&#40;https://github.com/ViacheslavDanilov&#41; |)
-
-[//]: # (|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|)
-
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <br/>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"></a><br>
+  <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a><br>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&layout=compact&hide_border=true"></a><br>
 </p>
-
-[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://github.com/ViacheslavDanilov&#41;)
