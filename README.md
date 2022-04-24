@@ -1,11 +1,11 @@
 <h3 align="center">
-  Welcome to Viacheslav Danilov's profile!
+  Welcome to Viacheslav's profile!
   <img src="media/waving_hand.gif" width="32px">
 </h3>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=4500&color=2492D4&center=true&vCenter=true&width=450&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;7%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=550&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;7%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
 </p>
 
 <!-- Social icons section -->
@@ -14,9 +14,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://wa.me/+79521825567"><img width="32px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://join.skype.com/invite/gvkeO9eLSHa6"><img width="32px" alt="Skype" title="Skype" src="media/skype.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://opendatascience.slack.com/team/UBV89HDAA"><img width="32px" alt="Slack" title="Slack" src="media/slack.png"/></a>
+    <a href="https://t.me/ballmaske"><img width="32px" alt="Skype" title="Skype" src="media/telegram.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -28,6 +26,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!-- Personal website and CV -->
 <p align="center">
     <a href="https://sites.google.com/view/viacheslav-danilov"><img width="125px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -92,12 +91,34 @@
 
 ## ℹ️ Stats
 
+[//]: # (<p align="center">)
+
+[//]: # ()
+[//]: # (  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"></a><br>)
+
+[//]: # ()
+[//]: # (  <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a><br>)
+
+[//]: # ()
+[//]: # (  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&hide_border=true"></a><br>)
+
+[//]: # ()
+[//]: # (</p>)
+
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=buefy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"></a><br>
-  <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a><br>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=buefy&hide=matlab&hide_border=true"></a><br>
+
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&theme=github&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"></a><br>
+
+[//]: # (  <a href="https://github.com/ViacheslavDanilov"><img src="http://github-readme-streak-stats.herokuapp.com?user=ViacheslavDanilov&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a><br>)
+
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&theme=tokyonight_duo&hide=matlab&hide_border=true"></a><br>
+
 </p>
 
+
+<!-- View counter -->
 <p align="right">
   <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge"></a>
 </p>
+
+
