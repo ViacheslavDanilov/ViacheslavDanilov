@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Viacheslav's profile!<br>
+  Welcome to Viacheslav's profile!<br/><br/>
   <img src="media/waving_hand.gif" width="32px">
 </h3>
 
@@ -28,15 +28,15 @@
 
 <!-- Personal website and CV -->
 <p align="center">
-    <a href="https://sites.google.com/view/viacheslav-danilov"><img width="125px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://drive.google.com/file/d/1wt79OJXWxjrkjLJgpziJMB6jwH86olO2/view?usp=sharing"><img width="125px" alt="PCV" title="CV" src="media/cv.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://sites.google.com/view/viacheslav-danilov"><img width="120px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
+    &#8287;&#8287;
+    <a href="https://drive.google.com/file/d/1wt79OJXWxjrkjLJgpziJMB6jwH86olO2/view?usp=sharing"><img width="120px" alt="PCV" title="CV" src="media/cv.svg"/></a>
+    &#8287;&#8287;
 </p>
 
 ## ℹ️ About me
 
-**Senior ML Engineer** and **Senior Research Scientist** specializing in data science, data analysis, and machine learning development. Having around 6+ years of experience as an ML Engineer in the IT industry and as a Scientific Researcher in the academy. Experienced with all stages of the development cycle for dynamic AI projects. Well-versed in numerous programming languages and frameworks including Python, R, TensorFlow, Keras, PyTorch. Extensively worked on ML tasks using a wide variety of AWS services like EC2, IAM, S3, ECR, and SageMaker. Strong background in data analysis, mathematical modeling, image processing, and visualization.
+**Senior ML Engineer** and **Senior Research Scientist** specializing in data science, data analysis, and machine learning development. Having around 7+ years of experience as an ML Engineer in the IT industry and as a Scientific Researcher in the academy. Experienced with all stages of the development cycle for dynamic AI projects. Well-versed in numerous programming languages and frameworks including Python, R, TensorFlow, Keras, PyTorch. Extensively worked on ML tasks using a wide variety of AWS services like EC2, IAM, S3, ECR, and SageMaker. Strong background in data analysis, mathematical modeling, image processing, and visualization.
 
 - 👨🏻‍🎓 PhD in Computer Science ([PhD diploma](https://drive.google.com/file/d/1UxAkmy8yy4Me02Ib4KoywU9_3gIDQMWB/view?usp=sharing), [PhD thesis](https://drive.google.com/file/d/1wRx6LUd0bCgUoZHiR9Bbs6MheT9jK9DC/view?usp=sharing), [PhD thesis abstract](https://drive.google.com/file/d/1wqWl1wTnSe3KRrsYF-SXDU3WR1jaQ1oj/view?usp=sharing))
 - 👨🏻‍💻 Senior ML Engineer at [Intelerad Medical Systems](https://www.intelerad.com/en/)
