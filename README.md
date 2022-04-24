@@ -1,29 +1,29 @@
 <h3 align="center">
-  Welcome to Viacheslav's profile!
+  Welcome to Viacheslav's profile!<br>
   <img src="media/waving_hand.gif" width="32px">
 </h3>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=550&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;7%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;7%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-    <a href="mailto:viacheslav.v.danilov@gmail.com"><img width="32px" alt="Email" title="Email" src="media/email.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://wa.me/+79521825567"><img width="32px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://t.me/ballmaske"><img width="32px" alt="Skype" title="Skype" src="media/telegram.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img width="32px" alt="Google Scholar" title="Google Scholar" src="media/google_scholar.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://orcid.org/0000-0002-1413-1381"><img width="32px" alt="ORCID" title="ORCID" src="media/orcid.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img width="32px" alt="Research Gate" title="Research Gate" src="media/rg.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;
+    <a href="mailto:viacheslav.v.danilov@gmail.com"><img width="30px" alt="Email" title="Email" src="media/email.png"/></a>
+    &#8287;&#8287;
+    <a href="https://wa.me/+79521825567"><img width="30px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
+    &#8287;&#8287;
+    <a href="https://t.me/ballmaske"><img width="30px" alt="Skype" title="Skype" src="media/telegram.png"/></a>
+    &#8287;&#8287;
+    <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
+    &#8287;&#8287;
+    <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img width="30px" alt="Google Scholar" title="Google Scholar" src="media/google_scholar.png"/></a>
+    &#8287;&#8287;
+    <a href="https://orcid.org/0000-0002-1413-1381"><img width="30px" alt="ORCID" title="ORCID" src="media/orcid.png"/></a>
+    &#8287;&#8287;
+    <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img width="30px" alt="Research Gate" title="Research Gate" src="media/rg.png"/></a>
+    &#8287;&#8287;
 </p>
 
 <!-- Personal website and CV -->
