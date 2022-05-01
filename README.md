@@ -14,7 +14,7 @@
     &#8287;&#8287;
     <a href="https://wa.me/+79521825567"><img width="30px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
     &#8287;&#8287;
-    <a href="https://t.me/ballmaske"><img width="30px" alt="Skype" title="Skype" src="media/telegram.png"/></a>
+    <a href="https://t.me/ballmaske"><img width="30px" alt="Telegram" title="Telegram" src="media/telegram.png"/></a>
     &#8287;&#8287;
     <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
     &#8287;&#8287;
