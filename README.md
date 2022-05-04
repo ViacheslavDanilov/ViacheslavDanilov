@@ -52,13 +52,6 @@
 - Aortography keypoint tracking for TAVI ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/keypoint-tracking), [article](https://www.frontiersin.org/articles/10.3389/fcvm.2021.697737/full), [interactive report](https://wandb.ai/viacheslav_danilov/tavr_keypoint_tracking/reports/Keypoint-tracking-and-classification--Vmlldzo3ODIyNQ))
 - Segmentation of a medical device during minimally invasive surgery ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/segmentation-of-medical-devices))
 
-## ℹ️ Datasets
-
-- [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
-- [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
-- [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
-- [Aortography keypoint tracking for TAVI](https://data.mendeley.com/datasets/pgynfy766g/2)
-
 ## ℹ️ Publications
 
 <details><summary>Journal Articles</summary>
@@ -89,10 +82,17 @@
 |                                      [FABRIK-based inverse kinematics for multi-section continuum robots](https://ieeexplore.ieee.org/document/8624888)                                      |                                    [18th International Conference on Mechatronics](https://mechatronika.fel.cvut.cz/2018/index.html)                                     |   Brno, Czech Republic   | 2019 |
 </details>
 
+## ℹ️ Datasets
+
+- [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
+- [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
+- [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
+- [Aortography keypoint tracking for TAVI](https://data.mendeley.com/datasets/pgynfy766g/2)
+
 ## ℹ️ Stats
 
 <p align="center">
-    <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&count_private=true&show_icons=true&include_all_commits=true&hide_border=false" align="center" height="175" ></a>
+    <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=false" align="center" height="175" ></a>
     <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=matlab&layout=compact&hide_border=false" align="center" height="175" ></a>
 </p>
 
