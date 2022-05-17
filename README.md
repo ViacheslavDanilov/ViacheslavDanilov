@@ -36,7 +36,7 @@
 
 ## ℹ️ About me
 
-**Senior ML Engineer** and **Senior Research Scientist** specializing in data science, data analysis, and machine learning development. Having around 7+ years of experience as an ML Engineer in the IT industry and as a Scientific Researcher in the academy. Experienced with all stages of the development cycle for dynamic AI projects. Well-versed in numerous programming languages and frameworks including Python, R, TensorFlow, Keras, PyTorch. Extensively worked on ML tasks using a wide variety of AWS services like EC2, IAM, S3, ECR, and SageMaker. Strong background in data analysis, mathematical modeling, image processing, and visualization.
+**Senior ML Engineer** and **Senior Research Scientist** specializing in data science, data analysis, and machine learning development. Over 7 years of experience as an ML Engineer & Researcher in both academic and industry domains. Experienced with every stage of the development cycle for dynamic AI projects. Well-versed in numerous programming languages and frameworks including Python, R, TensorFlow, Keras, and PyTorch. Worked extensively on ML tasks using a wide range of AWS services like EC2, IAM, S3, ECR, and SageMaker. Strong background in data analysis, mathematical modeling, image processing, and visualization.
 
 - 👨🏻‍🎓 PhD in Computer Science ([PhD diploma](https://drive.google.com/file/d/1UxAkmy8yy4Me02Ib4KoywU9_3gIDQMWB/view?usp=sharing), [PhD thesis](https://drive.google.com/file/d/1wRx6LUd0bCgUoZHiR9Bbs6MheT9jK9DC/view?usp=sharing), [PhD thesis abstract](https://drive.google.com/file/d/1wqWl1wTnSe3KRrsYF-SXDU3WR1jaQ1oj/view?usp=sharing))
 - 👨🏻‍💻 Senior ML Engineer at [Intelerad Medical Systems](https://www.intelerad.com/en/)
