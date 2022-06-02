@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to Viacheslav's profile!<br/><br/>
-  <img src="media/waving_hand.gif" width="32px">
+  <img src="media/waving_hand.gif" width="40px" height="40px">
 </h3>
 
 <!-- Typing SVG -->
