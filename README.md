@@ -93,7 +93,7 @@
 
 <p align="center">
     <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=false" align="center" height="175" ></a>
-    <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=matlab&layout=compact&hide_border=false" align="center" height="175" ></a>
+    <a href="https://github.com/ViacheslavDanilov"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=false' align="center" height="175" ></a>
 </p>
 
 <!-- View counter -->
