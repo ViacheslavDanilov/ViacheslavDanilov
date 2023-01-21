@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;7%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;8%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
 </p>
 
 <!-- Social icons section -->
@@ -30,13 +30,13 @@
 <p align="center">
     <a href="https://sites.google.com/view/viacheslav-danilov"><img width="120px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
     &#8287;&#8287;
-    <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view"><img width="120px" alt="PCV" title="CV" src="media/cv.svg"/></a>
+    <a href="https://drive.google.com/uc?export=download&id=1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir"><img width="120px" alt="PCV" title="CV" src="media/cv.svg"/></a>
     &#8287;&#8287;
 </p>
 
 ## ℹ️ About me
 
-**Lead ML Engineer** and **Senior Research Scientist** specializing in data science, data analysis, and machine learning development. Over 7 years of experience as an ML Engineer & Researcher in both academic and industry domains. Experienced with every stage of the development cycle for dynamic AI projects. Well-versed in numerous programming languages and frameworks including Python, R, TensorFlow, Keras, and PyTorch. Worked extensively on ML tasks using a wide range of AWS services like EC2, IAM, S3, ECR, and SageMaker. Strong background in data analysis, mathematical modeling, image processing, and visualization.
+Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science from Tomsk Polytechnic University, attained in 2020. Skilled in data science, data analysis, and machine learning development, with over 8 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontier, and Nature.
 
 - 👨🏻‍🎓 PhD in Computer Science ([PhD diploma](https://drive.google.com/file/d/1UxAkmy8yy4Me02Ib4KoywU9_3gIDQMWB/view?usp=sharing), [PhD thesis](https://drive.google.com/file/d/1wRx6LUd0bCgUoZHiR9Bbs6MheT9jK9DC/view?usp=sharing), [PhD thesis abstract](https://drive.google.com/file/d/1wqWl1wTnSe3KRrsYF-SXDU3WR1jaQ1oj/view?usp=sharing))
 - 👨🏻‍🔬 Senior Research Scientist at [Politecnico di Milano](http://www.laseroptimal.polimi.it/team/)
