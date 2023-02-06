@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Viacheslav's profile!<br/><br/>
+  Welcome to my GitHub profile!<br/><br/>
   <img src="media/waving_hand.gif" width="40px" height="40px">
 </h3>
 
@@ -102,3 +102,4 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 </p>
 
 
+`
