@@ -34,7 +34,7 @@
     &#8287;&#8287;
 </p>
 
-## ℹ️ About me
+## 🧑‍💻 About me
 
 Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science from Tomsk Polytechnic University, attained in 2020. Skilled in data science, data analysis, and machine learning development, with over 8 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
 
@@ -42,7 +42,7 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 - 👨🏻‍🔬 Senior Research Scientist at [Politecnico di Milano](http://www.laseroptimal.polimi.it/team/)
 - 👨🏻‍💻 Lead ML Engineer at [Quantori](https://www.quantori.com/)
 
-## ℹ️ Projects
+## 🛠️ Projects
 
 - Automatic scoring of COVID-19 severity in X-ray imaging ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-scoring), [article](https://www.nature.com/articles/s41598-022-15013-z))
 - Face obfuscation and anonymization on 3D medical data ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/face-obfuscation))
@@ -52,7 +52,7 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 - Aortography keypoint tracking for TAVI ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/keypoint-tracking), [article](https://www.frontiersin.org/articles/10.3389/fcvm.2021.697737/full), [interactive report](https://wandb.ai/viacheslav_danilov/tavr_keypoint_tracking/reports/Keypoint-tracking-and-classification--Vmlldzo3ODIyNQ))
 - Segmentation of a medical device during minimally invasive surgery ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/segmentation-of-medical-devices))
 
-## ℹ️ Publications
+## 📖 Publications
 
 <details><summary>Journal Articles</summary>
 
@@ -83,7 +83,7 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 |                                      [FABRIK-based inverse kinematics for multi-section continuum robots](https://ieeexplore.ieee.org/document/8624888)                                      |                                   [18th International Conference on Mechatronics](https://mechatronika.fel.cvut.cz/2018/index.html)                                    |   Brno, Czech Republic   | 2019 |
 </details>
 
-## ℹ️ Datasets
+## 📁 Datasets
 
 - [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://zenodo.org/record/8383777)
 - [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
@@ -91,7 +91,7 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 - [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
 - [Aortography keypoint tracking for TAVI](https://data.mendeley.com/datasets/pgynfy766g/2)
 
-## ℹ️ Stats
+## 📈 Stats
 
 <p align="center">
     <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=false" align="center" height="175" ></a>
