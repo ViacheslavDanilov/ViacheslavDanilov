@@ -85,7 +85,7 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 
 ## 📁 Datasets
 
-- [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://zenodo.org/record/8383777)
+- [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://zenodo.org/record/8390417)
 - [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
 - [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
 - [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
