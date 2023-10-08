@@ -102,6 +102,3 @@ Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in
 <p align="right">
   <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge"></a>
 </p>
-
-
-`
