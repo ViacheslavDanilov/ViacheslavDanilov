@@ -36,10 +36,10 @@
 
 ## 🧑‍💻 About me
 
-Experienced **Lead ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science from Tomsk Polytechnic University, attained in 2020. Skilled in data science, data analysis, and machine learning development, with over 8 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
+Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Computer Science from Tomsk Polytechnic University, attained in 2020. Skilled in data science, data analysis, and machine learning development, with over 8 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
 
-- 👨🏻‍🎓 PhD in Computer Science ([PhD diploma](https://drive.google.com/file/d/1UxAkmy8yy4Me02Ib4KoywU9_3gIDQMWB/view?usp=sharing), [PhD thesis](https://drive.google.com/file/d/1wRx6LUd0bCgUoZHiR9Bbs6MheT9jK9DC/view?usp=sharing), [PhD thesis abstract](https://drive.google.com/file/d/1wqWl1wTnSe3KRrsYF-SXDU3WR1jaQ1oj/view?usp=sharing))
-- 👨🏻‍🔬 Senior Research Scientist at [Politecnico di Milano](http://www.laseroptimal.polimi.it/team/)
+- 👨🏻‍🎓 PhD in Computer Science from [Tomsk Polytechnic University](https://tpu.ru/en/)
+- 👨🏻‍🔬 Research Professor at [Pompeu Fabra University](https://www.upf.edu/en/home)
 - 👨🏻‍💻 Lead ML Engineer at [Quantori](https://www.quantori.com/)
 
 ## 🛠️ Projects
