@@ -36,7 +36,7 @@
 
 ## 🧑‍💻 About me
 
-Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Computer Science from Tomsk Polytechnic University, attained in 2020. Skilled in data science, data analysis, and machine learning development, with over 8 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
+Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Computer Science from Tomsk Polytechnic University, attained in 2020. Skilled in data science, data analysis, and machine learning development, with over 9 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
 
 - 👨🏻‍🎓 PhD in Computer Science from [Tomsk Polytechnic University](https://tpu.ru/en/)
 - 👨🏻‍🔬 Research Professor at [Pompeu Fabra University](https://www.upf.edu/en/home)
@@ -44,7 +44,9 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 🛠️ Projects
 
-- Automatic scoring of COVID-19 severity in X-ray imaging ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-scoring), [article](https://www.nature.com/articles/s41598-022-15013-z))
+- Explainable AI to identify radiographic features of pulmonary edema ([article](https://academic.oup.com/radadv/advance-article/doi/10.1093/radadv/umae003/7630768), [GitHub repo](https://github.com/ViacheslavDanilov/edema_quantification))
+- Perfect prosthetic heart valve: generative design with machine learning, modeling, and optimization ([article](https://www.frontiersin.org/articles/10.3389/fbioe.2023.1238130/full), [GitHub repo](https://github.com/ViacheslavDanilov/generative_design))
+- Automatic scoring of COVID-19 severity in X-ray imaging ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-scoring), [article](https://www.nature.com/articles/s41598-022-15013-z), [GitHub repo](https://github.com/ViacheslavDanilov/covid_scoring))
 - Face obfuscation and anonymization on 3D medical data ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/face-obfuscation))
 - Deep learning detection and counting cells on microscopy images ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/cell-counting))
 - COVID-19 and pneumonia classification based on indirect supervision ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-classification), [article](https://www.sciencedirect.com/science/article/pii/S2352914821002975))
@@ -85,6 +87,7 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 📁 Datasets
 
+- [Histological Dataset for Segmentation of Tissue-Engineered Vascular Grafts](https://doi.org/10.5281/zenodo.10838384)
 - [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://doi.org/10.5281/zenodo.8383776)
 - [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
 - [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
