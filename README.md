@@ -12,7 +12,7 @@
 <p align="center">
     <a href="mailto:viacheslav.v.danilov@gmail.com"><img width="30px" alt="Email" title="Email" src="media/email.png"/></a>
     &#8287;&#8287;
-    <a href="https://wa.me/+79521825567"><img width="30px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
+    <a href="https://wa.me/+34634810041"><img width="30px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
     &#8287;&#8287;
     <a href="https://t.me/ballmaske"><img width="30px" alt="Telegram" title="Telegram" src="media/telegram.png"/></a>
     &#8287;&#8287;
