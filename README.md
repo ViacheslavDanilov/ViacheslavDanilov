@@ -44,7 +44,10 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 🛠️ Projects
 
-- Automatic scoring of COVID-19 severity in X-ray imaging ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-scoring), [article](https://www.nature.com/articles/s41598-022-15013-z))
+- Histogenomic analysis of tumor immunologic phenotypes ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histogenomic-analysis), [blog post]())
+- ML-driven segmentation of histologic microvascular features  ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histology-segmentation), [article](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1411680))
+- Explainable AI to identify pulmonary edema ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/pulmonary-edema), [article](https://academic.oup.com/radadv/article/1/1/umae003/7630768))
+- Generative design of heart valve prostheses ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/generative-design), [article](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2023.1238130/full))
 - Face obfuscation and anonymization on 3D medical data ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/face-obfuscation))
 - Deep learning detection and counting cells on microscopy images ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/cell-counting))
 - COVID-19 and pneumonia classification based on indirect supervision ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-classification), [article](https://www.sciencedirect.com/science/article/pii/S2352914821002975))
@@ -88,6 +91,8 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 📁 Datasets
 
+- [Hyperspectral imaging dataset for laser thermal ablation monitoring in vital organs](https://doi.org/10.5281/zenodo.10444212)
+- [Histological dataset for microvascular segmentation of tissue-engineered vascular grafts](https://doi.org/10.5281/zenodo.10838383)
 - [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://doi.org/10.5281/zenodo.8383776)
 - [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
 - [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
