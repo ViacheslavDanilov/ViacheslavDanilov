@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;8%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;10%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
 </p>
 
 <!-- Social icons section -->
