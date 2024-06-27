@@ -44,7 +44,7 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 🛠️ Projects
 
-- Histogenomic analysis of tumor immunologic phenotypes ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histogenomic-analysis), [blog post]())
+- Histogenomic analysis of tumor immunologic phenotypes ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histogenomic-analysis), [blog post](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine))
 - ML-driven segmentation of histologic microvascular features  ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histology-segmentation), [article](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1411680))
 - Explainable AI to identify pulmonary edema ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/pulmonary-edema), [article](https://academic.oup.com/radadv/article/1/1/umae003/7630768))
 - Generative design of heart valve prostheses ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/generative-design), [article](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2023.1238130/full))
