@@ -59,7 +59,7 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 <details><summary>Journal Articles</summary>
 
-|                                                                               Article                                                                               |                                                           Journal                                                            | Quartile | IF  | Year |
+|                                                                                Title                                                                                |                                                           Journal                                                            | Quartile | IF  | Year |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------:|:---:|:----:|
 |              [Advancing Laser Ablation Assessment in Hyperspectral Imaging through Machine Learning](https://doi.org/10.1016/j.compbiomed.2024.108849)              |         [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)         |    Q1    | 7.7 | 2024 |
 | [ML-Driven Segmentation of Microvascular Features During Histological Examination of Tissue-Engineered Vascular Grafts](https://doi.org/10.3389/fbioe.2024.1411680) |    [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/journals/bioengineering-and-biotechnology)    |    Q1    | 5.7 | 2024 |
@@ -79,7 +79,7 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 <details><summary>Conference Proceedings</summary>
 
-|                                                                                  Article                                                                                   |                                                                             Conference                                                                              |           City           | Year |
+|                                                                                   Title                                                                                    |                                                                             Conference                                                                              |           City           | Year |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:----:|
 |                  [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/ABC)                  |                 [European Conferences on Biomedical Optics](https://www.optica.org/events/topical_meetings/european_conferences_biomedical_optics/)                 |     Munich, Germany      | 2025 |
 | [Intracranial pressure and cerebral blood flow pulse dynamics in patients with idiopathic normal pressure hydrocephalus during Katzman infusion test](https://doi.org/XYZ) |                 [European Conferences on Biomedical Optics](https://www.optica.org/events/topical_meetings/european_conferences_biomedical_optics/)                 |     Munich, Germany      | 2025 |
@@ -90,6 +90,18 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 |                             [Ray-based segmentation algorithm for medical imaging](https://doi.org/10.5194/isprs-archives-XLII-2-W12-37-2019)                              |   [Photogrammetric and computer vision techniques for video surveillance, biometrics and biomedicine](https://isprs-archives.copernicus.org/articles/XLII-2-W12/)   |      Moscow, Russia      | 2019 |
 |                                [Inverse kinematics for steerable concentric continuum robots](https://doi.org/10.1007/978-981-13-9267-2_8)                                 |                                       [International Conference on Electromechanics and Robotics](https://guap.ru/en/zavread)                                       |      Kursk, Russia       | 2019 |
 |                             [FABRIK-based inverse kinematics for multi-section continuum robots](https://ieeexplore.ieee.org/document/8624888)                             |                                                  [Mechatronika](https://mechatronika.fel.cvut.cz/2018/index.html)                                                   |   Brno, Czech Republic   | 2019 |
+</details>
+
+<details><summary>Posts</summary>
+
+|                                                                                                    Title                                                                                                     |    Source     | Year |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----:|
+|                                               [Testing AI low-code platforms: What actually worked and what didn’t](https://symfa.com/blog/ai-low-code-tools)                                                |  Symfa Blog   | 2025 |
+|           [The future of business challenges: People + AI or People vs AI](https://www.linkedin.com/posts/viacheslav-danilov_the-future-of-business-challenges-activity-7315342704802959379-spfI)            |   LinkedIn    | 2025 |
+|                                      [Freelance tech trends: Top IT skills, pay rates, and regional demand](https://symfa.com/blog/top-skills-in-demand-in-gig-economy)                                      |  Symfa Blog   | 2025 |
+|                                    [Freelance pricing trends: Industry, location, and expertise insights](https://symfa.com/blog/insights-and-trends-in-the-gig-economy)                                     |  Symfa Blog   | 2025 |
+| [Transforming chaotic data into clarity: Practical insights and a streamlined pipeline](https://medium.com/@symfa_stories/from-data-chaos-to-clarity-streamlining-a-freelance-platform-dataset-96534c6af1fc) |    Medium     | 2024 |
+|                     [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine)                      | Quantori Blog | 2024 |
 </details>
 
 ## 📁 Datasets
