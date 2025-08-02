@@ -94,7 +94,7 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 📁 Datasets
 
-- [OCT Dataset for Segmentation of Atherosclerotic Plaque Morphological Features](https://doi.org/10.5281/zenodo.14478209)
+- [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209)
 - [Hyperspectral imaging dataset for laser thermal ablation monitoring in vital organs](https://doi.org/10.5281/zenodo.10444212)
 - [Histological dataset for microvascular segmentation of tissue-engineered vascular grafts](https://doi.org/10.5281/zenodo.10838383)
 - [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://doi.org/10.5281/zenodo.8383776)
