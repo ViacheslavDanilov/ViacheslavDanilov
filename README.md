@@ -44,16 +44,24 @@ Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Comput
 
 ## 🛠️ Projects
 
-- Histogenomic analysis of tumor immunologic phenotypes ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histogenomic-analysis), [blog post](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine))
-- ML-driven segmentation of histologic microvascular features  ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/histology-segmentation), [article](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1411680))
-- Explainable AI to identify pulmonary edema ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/pulmonary-edema), [article](https://academic.oup.com/radadv/article/1/1/umae003/7630768))
-- Generative design of heart valve prostheses ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/generative-design), [article](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2023.1238130/full))
-- Face obfuscation and anonymization on 3D medical data ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/face-obfuscation))
-- Deep learning detection and counting cells on microscopy images ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/cell-counting))
-- COVID-19 and pneumonia classification based on indirect supervision ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/covid-19-classification), [article](https://www.sciencedirect.com/science/article/pii/S2352914821002975))
-- Coronary artery stenosis detection ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/stenosis-detection), [article](https://www.nature.com/articles/s41598-021-87174-2))
-- Aortography keypoint tracking for TAVI ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/keypoint-tracking), [article](https://www.frontiersin.org/articles/10.3389/fcvm.2021.697737/full), [interactive report](https://wandb.ai/viacheslav_danilov/tavr_keypoint_tracking/reports/Keypoint-tracking-and-classification--Vmlldzo3ODIyNQ))
-- Segmentation of a medical device during minimally invasive surgery ([project summary](https://sites.google.com/view/viacheslav-danilov/projects/segmentation-of-medical-devices))
+1. [Wavelets in the brain: Deep learning for non-invasive ICP monitoring](https://vdanilov.com/wavelets-in-the-brain/)
+2. [AI dissects arterial risk: OCT plaque segmentation with deep learning](https://vdanilov.com/ai-dissects-arterial-risk/)
+3. [Sales Pilot: AI-driven lead scoring at scale](https://vdanilov.com/sales-pilot/)
+4. [Harnessing ML for laser ablation assessment in hyperspectral imaging](https://vdanilov.com/harnessing-ml-for-laser-ablation/)
+5. [Tumor immune phenotype classification](https://vdanilov.com/tumor-immune-phenotype-classification/)
+6. [Segmentation of microvascular features](https://vdanilov.com/segmentation-of-microvascular-features/)
+7. [Explainable AI to identify pulmonary edema](https://vdanilov.com/explainable-ai-to-identify-pulmonary-edema/)
+8. [ML-driven prosthetic heart valve design](https://vdanilov.com/ml-driven-prosthetic-heart-valve-design/)
+9. [Deep segmentation for guiding surgical tools in 3D ultrasound](https://vdanilov.com/deep-segmentation-for-guiding-surgical-tools/)
+10. [Automatic scoring of COVID-19 severity](https://vdanilov.com/automatic-scoring-of-covid-severity/)
+11. [Guided X-ray diagnosis for COVID-19 and pneumonia](https://vdanilov.com/guided-x-ray-diagnosis/)
+12. [Face Shield 3D: Instant face and ear defacing for CT and MRI](https://vdanilov.com/face-shield-3d/)
+13. [Landmark tracking for safer valve implantation](https://vdanilov.com/landmark-tracking/)
+14. [Deep learning stenosis detection in real time](https://vdanilov.com/deep-learning-stenosis-detection/)
+15. [AI-powered microscopy: Detecting and counting cancer cells](https://vdanilov.com/ai-powered-microscopy/)
+16. [Deep anatomy: High-precision 3D organ segmentation via V-net](https://vdanilov.com/deep-anatomy/)
+17. [DeepVision wildfire tracking system in Siberia](https://vdanilov.com/deepvision-wildfire-tracking/)
+18. [Ray-casting segmentation for convex anatomical structures in MRI](https://vdanilov.com/ray-casting-segmentation/)
 
 ## 📖 Publications
 
