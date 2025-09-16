@@ -36,11 +36,23 @@
 
 ## 🧑‍💻 About me
 
-Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Computer Science, specializing in Machine Learning and Artificial Intelligence. Skilled in data science, data analysis, and machine learning development, with over 10 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
+Experienced **technology leader**, **ML/AI engineer**, and **research professor** with a PhD in Computer Science and more than a decade of expertise spanning academia, industry, and R&D. I thrive at the intersection of research and business, bringing deep scientific rigor, hands-on development experience, and strategic vision to create impactful technological solutions. My career bridges three complementary domains:
+
+- **Scientific Research:** Over 10 years of leading advanced research in machine learning, data science, and AI-driven innovation, with work featured in journals such as _Nature_, _Frontiers_, and _Springer_.
+- **Industry Applications:** Deep experience delivering ML/AI solutions in industry settings, from medical imaging and predictive modeling to automated monitoring and signal processing. I have worked with life sciences, healthcare, manufacturing, and pharmaceutical clients, translating scientific insights into deployable systems.
+- **Engineering Management:** Leading engineering teams, setting technical direction, fostering best practices, and aligning engineering goals with business outcomes. Currently building and scaling cross-functional R&D team.
+
 
 - 👨🏻‍🎓 PhD in Computer Science from [Tomsk Polytechnic University](https://tpu.ru/en/)
+- 👨🏻‍💻 Chief Technology Officer at [Symfa](https://www.symfa.com/)
 - 👨🏻‍🔬 Research Professor at [Pompeu Fabra University](https://www.upf.edu/en/home)
-- 👨🏻‍💻 Lead ML Engineer at [Quantori](https://www.quantori.com/)
+
+Experienced **Lead ML Engineer** and **Research Professor** with a PhD in Computer Science, specializing in Machine Learning and Artificial Intelligence. Skilled in data science, data analysis, and machine learning development, with over 10 years of experience in both academic and industrial domains. Proven expertise in all stages of the development cycle for dynamic ML projects, utilizing various programming languages and frameworks such as Python, R, TensorFlow, Keras, and PyTorch. Experienced in using AWS services for ML tasks, including EC2, IAM, S3, ECR, and SageMaker. Strong background in scientific experimentation, data analytics, modeling, and visualization. Solid publication record, with articles featured in prestigious journals such as Springer, Frontiers, and Nature.
+
+
+
+
+
 
 ## 🛠️ Projects
 
