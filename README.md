@@ -28,7 +28,7 @@
 
 <!-- Personal website and CV -->
 <p align="center">
-    <a href="https://sites.google.com/view/viacheslav-danilov"><img width="120px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
+    <a href="https://vdanilov.com/"><img width="120px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
     &#8287;&#8287;
     <a href="https://drive.google.com/uc?export=download&id=1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir"><img width="120px" alt="PCV" title="CV" src="media/cv.svg"/></a>
     &#8287;&#8287;
