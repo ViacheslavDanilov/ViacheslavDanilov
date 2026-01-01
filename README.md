@@ -55,7 +55,7 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 ## ⭐ Featured Projects
 
 | Project | Category | Description |
-|:--------|:---------|:------------|
+|:-------:|:--------:|:-----------:|
 | [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors |
 | [**Coronary Insight**](https://vdanilov.com/portfolio/coronary-insight) | 🩻 Medical Imaging | Deep learning pipeline for OCT plaque segmentation, enabling precise arterial risk assessment |
 | [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale |
@@ -72,7 +72,7 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 ## 📖 Featured Publications
 
 | Type | Title | Venue | Year |
-|:----:|:------|:------|:----:|
+|:----:|:-----:|:-----:|:----:|
 | 📄 Journal | [Segmentation and quantification of atherosclerotic plaques in OCT](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine (Q1, IF 7.7) | 2025 |
 | 📄 Journal | [Real-time coronary artery stenosis detection](https://doi.org/10.1038/s41598-021-87174-2) | Nature Scientific Reports (Q1, IF 5.0) | 2021 |
 | 🎤 Conference | [Non-invasive ICP estimation using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
