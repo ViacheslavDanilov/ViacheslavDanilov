@@ -1,71 +1,77 @@
-<h3 align="center">
-  Welcome to my GitHub profile!<br/><br/>
-  <img src="media/waving_hand.gif" width="40px" height="40px">
-</h3>
+<h1 align="center">Viacheslav Danilov, PhD</h1>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;10%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Lead+ML+Engineer;Research+Scientist;Tech+Lead;PhD+in+Computer+Science"></a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social & Contact Badges -->
 <p align="center">
-    <a href="mailto:viacheslav.v.danilov@gmail.com"><img width="30px" alt="Email" title="Email" src="media/email.png"/></a>
-    &#8287;&#8287;
-    <a href="https://wa.me/+79521825567"><img width="30px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
-    &#8287;&#8287;
-    <a href="https://t.me/ballmaske"><img width="30px" alt="Telegram" title="Telegram" src="media/telegram.png"/></a>
-    &#8287;&#8287;
-    <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
-    &#8287;&#8287;
-    <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img width="30px" alt="Google Scholar" title="Google Scholar" src="media/google_scholar.png"/></a>
-    &#8287;&#8287;
-    <a href="https://orcid.org/0000-0002-1413-1381"><img width="30px" alt="ORCID" title="ORCID" src="media/orcid.png"/></a>
-    &#8287;&#8287;
-    <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img width="30px" alt="Research Gate" title="Research Gate" src="media/rg.png"/></a>
-    &#8287;&#8287;
+  <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Website-vdanilov.com-3B82F6?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
 </p>
 
-<!-- Personal website and CV -->
 <p align="center">
-    <a href="https://vdanilov.com/"><img width="120px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
-    &#8287;&#8287;
-    <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view?usp=drive_link"><img width="120px" alt="PCV" title="CV" src="media/cv.svg"/></a>
-    &#8287;&#8287;
+  <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;
+  <a href="mailto:viacheslav.v.danilov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-## 🧑‍💻 About me
+---
 
-Experienced **technology leader**, **ML/AI engineer**, and **research professor** with a PhD in Computer Science and more than a decade of expertise spanning academia, industry, and R&D. I thrive at the intersection of research and business, bringing deep scientific rigor, hands-on development experience, and strategic vision to create impactful technological solutions. My career bridges three complementary domains:
+## 👨‍💻 About Me
 
-* **Scientific Research:** Over 10 years of leading advanced research in machine learning, data science, and AI-driven innovation, with work featured in journals such as _Nature_, _Frontiers_, and _Springer_.
-* **Industry Applications:** Deep experience delivering ML/AI solutions in industry settings, from medical imaging and predictive modeling to automated monitoring and signal processing. I have worked with life sciences, healthcare, manufacturing, and pharmaceutical clients, translating scientific insights into deployable systems.
-* **Engineering Management:** Leading engineering teams, setting technical direction, fostering best practices, and aligning engineering goals with business outcomes. Currently building and scaling cross-functional R&D team.
+Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Computer Science and 10+ years of expertise spanning academia, industry, and R&D. I thrive at the intersection of research and engineering, bringing scientific rigor, hands-on development experience, and strategic vision to create impactful AI solutions.
 
-## 🛠️ Projects
+- 🔬 **Research:** Published in _Nature_, _Frontiers_, and _Springer_ with focus on medical imaging and deep learning
+- 🏭 **Industry:** Delivered ML/AI solutions for healthcare, life sciences, manufacturing, and business applications
+- 👥 **Leadership:** Building and scaling cross-functional R&D teams, setting technical direction
 
-- [Wavelets in the brain: Deep learning for non-invasive ICP monitoring](https://vdanilov.com/wavelets-in-the-brain/)
-- [AI dissects arterial risk: OCT plaque segmentation with deep learning](https://vdanilov.com/ai-dissects-arterial-risk/)
-- [Sales Pilot: AI-driven lead scoring at scale](https://vdanilov.com/sales-pilot/)
-- [Harnessing ML for laser ablation assessment in hyperspectral imaging](https://vdanilov.com/harnessing-ml-for-laser-ablation/)
-- [Tumor immune phenotype classification](https://vdanilov.com/tumor-immune-phenotype-classification/)
-- [Segmentation of microvascular features](https://vdanilov.com/segmentation-of-microvascular-features/)
-- [Explainable AI to identify pulmonary edema](https://vdanilov.com/explainable-ai-to-identify-pulmonary-edema/)
-- [ML-driven prosthetic heart valve design](https://vdanilov.com/ml-driven-prosthetic-heart-valve-design/)
-- [Deep segmentation for guiding surgical tools in 3D ultrasound](https://vdanilov.com/deep-segmentation-for-guiding-surgical-tools/)
-- [Automatic scoring of COVID-19 severity](https://vdanilov.com/automatic-scoring-of-covid-severity/)
-- [Guided X-ray diagnosis for COVID-19 and pneumonia](https://vdanilov.com/guided-x-ray-diagnosis/)
-- [Face Shield 3D: Instant face and ear defacing for CT and MRI](https://vdanilov.com/face-shield-3d/)
-- [Landmark tracking for safer valve implantation](https://vdanilov.com/landmark-tracking/)
-- [Deep learning stenosis detection in real time](https://vdanilov.com/deep-learning-stenosis-detection/)
-- [AI-powered microscopy: Detecting and counting cancer cells](https://vdanilov.com/ai-powered-microscopy/)
-- [Deep anatomy: High-precision 3D organ segmentation via V-net](https://vdanilov.com/deep-anatomy/)
-- [DeepVision wildfire tracking system in Siberia](https://vdanilov.com/deepvision-wildfire-tracking/)
-- [Ray-casting segmentation for convex anatomical structures in MRI](https://vdanilov.com/ray-casting-segmentation/)
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Category | Description |
+|:--------|:---------|:------------|
+| [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors |
+| [**Coronary Insight**](https://vdanilov.com/portfolio/coronary-insight) | 🩻 Medical Imaging | Deep learning pipeline for OCT plaque segmentation, enabling precise arterial risk assessment |
+| [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale |
+| [**PulmoVision**](https://vdanilov.com/portfolio/pulmovision) | 🩻 Medical Imaging | Explainable AI for detecting pulmonary edema features in chest X-rays |
+| [**HyperVision Ablation**](https://vdanilov.com/portfolio/hypervision-ablation) | 🔬 Biomedical Research | ML workflow for tissue ablation assessment in hyperspectral imaging |
+| [**SonoGuide**](https://vdanilov.com/portfolio/sonoguide) | 🏥 Clinical Support | Deep learning for surgical tool segmentation in 3D ultrasound (93.6% Dice) |
+
+<p align="center">
+  <a href="https://vdanilov.com/portfolio"><img src="https://img.shields.io/badge/View_All_Projects_→-3B82F6?style=for-the-badge" alt="View All Projects"/></a>
+</p>
+
+---
 
 ## 📖 Publications
 
-<details><summary>Journal Articles</summary>
+<details><summary><strong>Journal Articles</strong> (18 publications)</summary>
 
 |                                                                                Title                                                                                |                                                           Journal                                                            | Quartile | IF  | Year |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------:|:---:|:----:|
@@ -88,7 +94,7 @@ Experienced **technology leader**, **ML/AI engineer**, and **research professor*
 |             [Efficient workflow for automatic segmentation of the right heart based on 2D echocardiography](https://doi.org/10.1007/s10554-018-1314-4)              |                  [International Journal of Cardiovascular Imaging](https://www.springer.com/journal/10554)                   |    Q2    | 2.3 | 2018 |
 </details>
 
-<details><summary>Conference Proceedings</summary>
+<details><summary><strong>Conference Proceedings</strong> (9 publications)</summary>
 
 |                                                                                   Title                                                                                    |                                                                             Conference                                                                              |           City           | Year |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:----:|
@@ -103,37 +109,32 @@ Experienced **technology leader**, **ML/AI engineer**, and **research professor*
 |                             [FABRIK-based inverse kinematics for multi-section continuum robots](https://ieeexplore.ieee.org/document/8624888)                             |                                                  [Mechatronika](https://mechatronika.fel.cvut.cz/2018/index.html)                                                   |   Brno, Czech Republic   | 2019 |
 </details>
 
-<details><summary>Posts</summary>
+---
 
-|                                                                                                    Title                                                                                                     |    Source     | Year |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----:|
-|                                               [Testing AI low-code platforms: What actually worked and what didn’t](https://symfa.com/blog/ai-low-code-tools)                                                |  Symfa Blog   | 2025 |
-|           [The future of business challenges: People + AI or People vs AI](https://www.linkedin.com/posts/viacheslav-danilov_the-future-of-business-challenges-activity-7315342704802959379-spfI)            |   LinkedIn    | 2025 |
-|                                      [Freelance tech trends: Top IT skills, pay rates, and regional demand](https://symfa.com/blog/top-skills-in-demand-in-gig-economy)                                      |  Symfa Blog   | 2025 |
-|                                    [Freelance pricing trends: Industry, location, and expertise insights](https://symfa.com/blog/insights-and-trends-in-the-gig-economy)                                     |  Symfa Blog   | 2025 |
-| [Transforming chaotic data into clarity: Practical insights and a streamlined pipeline](https://medium.com/@symfa_stories/from-data-chaos-to-clarity-streamlining-a-freelance-platform-dataset-96534c6af1fc) |    Medium     | 2024 |
-|                     [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine)                      | Quantori Blog | 2024 |
-</details>
+## 📁 Open Datasets
 
-## 📁 Datasets
+| Dataset | DOI |
+|:--------|:----|
+| OCT dataset for segmentation of atherosclerotic plaque morphological features | [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14478209-blue)](https://doi.org/10.5281/zenodo.14478209) |
+| Histological dataset for microvascular segmentation of tissue-engineered vascular grafts | [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.10838383-blue)](https://doi.org/10.5281/zenodo.10838383) |
+| Hyperspectral imaging dataset for laser thermal ablation monitoring | [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.10444212-blue)](https://doi.org/10.5281/zenodo.10444212) |
+| Dataset for detection and segmentation of pulmonary edema features | [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.8383776-blue)](https://doi.org/10.5281/zenodo.8383776) |
+| Dataset for COVID-19 segmentation and severity scoring | [![DOI](https://img.shields.io/badge/DOI-Mendeley-orange)](https://data.mendeley.com/datasets/36fjrg9s69/1) |
+| Chest X-ray dataset for lung segmentation | [![DOI](https://img.shields.io/badge/DOI-Mendeley-orange)](https://data.mendeley.com/datasets/8gf9vpkhgy/1) |
+| Angiographic dataset for stenosis detection | [![DOI](https://img.shields.io/badge/DOI-Mendeley-orange)](https://data.mendeley.com/datasets/ydrm75xywg/2) |
+| Aortography keypoint tracking for TAVI | [![DOI](https://img.shields.io/badge/DOI-Mendeley-orange)](https://data.mendeley.com/datasets/pgynfy766g/2) |
 
-- [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209)
-- [Histological dataset for microvascular segmentation of tissue-engineered vascular grafts](https://doi.org/10.5281/zenodo.10838383)
-- [Hyperspectral imaging dataset for laser thermal ablation monitoring in vital organs](https://doi.org/10.5281/zenodo.10444212)
-- [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://doi.org/10.5281/zenodo.8383776)
-- [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
-- [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
-- [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
-- [Aortography keypoint tracking for TAVI](https://data.mendeley.com/datasets/pgynfy766g/2)
+---
 
-## 📈 Stats
+## 📈 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=false" align="center" height="175" ></a>
-    <a href="https://github.com/ViacheslavDanilov"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=false' align="center" height="175" ></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6" height="170"></a>
 </p>
 
-<!-- View counter -->
-<p align="right">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge"></a>
+---
+
+<p align="center">
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=flat-square&color=3B82F6"></a>
 </p>
