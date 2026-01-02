@@ -74,8 +74,8 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 | 📄<br>Journal | [Real-time coronary artery stenosis detection](https://doi.org/10.1038/s41598-021-87174-2) | Nature Scientific Reports (Q1, IF 5.0) | 2021 |
 | 🎤<br>Conference | [Non-invasive ICP estimation using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
 | 🎤<br>Conference | [Boosting segmentation with synthetic data generation](https://doi.org/10.5194/isprs-archives-XLIV-2-W1-2021-33-2021) | ISPRS Workshop on Computer Vision | 2021 |
-| ✏️<br>Blog | [Testing AI low-code platforms: What worked and what didn't](https://symfa.com/blog/ai-low-code-tools) | Symfa Blog | 2025 |
-| ✏️<br>Blog | [Harnessing AI for histopathology: Precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
+| 📝<br>Blog | [Testing AI low-code platforms: What worked and what didn't](https://symfa.com/blog/ai-low-code-tools) | Symfa Blog | 2025 |
+| 📝<br>Blog | [Harnessing AI for histopathology: Precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
 | 🗂️<br>Dataset | [Chest X-ray dataset for lung segmentation](https://doi.org/10.17632/8gf9vpkhgy.1) | Mendeley Data | 2022 |
 | 🗂️<br>Dataset | [Angiographic dataset for stenosis detection](https://doi.org/10.17632/ydrm75xywg.2) | Mendeley Data | 2021 |
 
