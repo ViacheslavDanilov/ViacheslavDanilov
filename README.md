@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img src="https://img.shields.io/badge/-LinkedIn-4F46E5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;
-  <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img src="https://img.shields.io/badge/-ResearchGate-0EA5E9?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
-  <a href="mailto:viacheslav.v.danilov@gmail.com"><img src="https://img.shields.io/badge/-Email-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img src="https://img.shields.io/badge/-LinkedIn-E11D48?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://img.shields.io/badge/GitHub-F59E0B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-EA580C?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img src="https://img.shields.io/badge/-ResearchGate-DC2626?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
+  <a href="mailto:viacheslav.v.danilov@gmail.com"><img src="https://img.shields.io/badge/-Email-B91C1C?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 
