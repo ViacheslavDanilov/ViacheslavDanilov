@@ -8,7 +8,7 @@
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Website-vdanilov.com-3B82F6?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
-  <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
+  <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_CV-3B82F6?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
 </p>
 
 <p align="center">
