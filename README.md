@@ -1,139 +1,111 @@
-<h3 align="center">
-  Welcome to my GitHub profile!<br/><br/>
-  <img src="media/waving_hand.gif" width="40px" height="40px">
-</h3>
+<h1 align="center">Viacheslav Danilov, PhD</h1>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat+&size=20&duration=3500&color=2492D4&center=true&vCenter=true&width=500&lines=Skilled++Machine++Learning++Developer;Competent++in++Data++Science;PhD++in++Computer++Science;10%2B++years++of++coding++experience;Proficient++in++Medical++Imaging"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Tech+Lead;Engineering+Manager;Research+Scientist"></a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social & Contact Badges -->
 <p align="center">
-    <a href="mailto:viacheslav.v.danilov@gmail.com"><img width="30px" alt="Email" title="Email" src="media/email.png"/></a>
-    &#8287;&#8287;
-    <a href="https://wa.me/+79521825567"><img width="30px" alt="WhatsApp" title="WhatsApp" src="media/whatsapp.png"/></a>
-    &#8287;&#8287;
-    <a href="https://t.me/ballmaske"><img width="30px" alt="Telegram" title="Telegram" src="media/telegram.png"/></a>
-    &#8287;&#8287;
-    <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
-    &#8287;&#8287;
-    <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img width="30px" alt="Google Scholar" title="Google Scholar" src="media/google_scholar.png"/></a>
-    &#8287;&#8287;
-    <a href="https://orcid.org/0000-0002-1413-1381"><img width="30px" alt="ORCID" title="ORCID" src="media/orcid.png"/></a>
-    &#8287;&#8287;
-    <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img width="30px" alt="Research Gate" title="Research Gate" src="media/rg.png"/></a>
-    &#8287;&#8287;
+  <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Website-vdanilov.com-3B82F6?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
 </p>
-
-<!-- Personal website and CV -->
-<p align="center">
-    <a href="https://vdanilov.com/"><img width="120px" alt="Personal Webpage" title="Personal Webpage" src="media/website.svg"/></a>
-    &#8287;&#8287;
-    <a href="https://drive.google.com/file/d/1jYs54eFCYc367ZKhWjH1Xfry4_sFI7Ir/view?usp=drive_link"><img width="120px" alt="PCV" title="CV" src="media/cv.svg"/></a>
-    &#8287;&#8287;
-</p>
-
-## 🧑‍💻 About me
-
-Experienced **technology leader**, **ML/AI engineer**, and **research professor** with a PhD in Computer Science and more than a decade of expertise spanning academia, industry, and R&D. I thrive at the intersection of research and business, bringing deep scientific rigor, hands-on development experience, and strategic vision to create impactful technological solutions. My career bridges three complementary domains:
-
-* **Scientific Research:** Over 10 years of leading advanced research in machine learning, data science, and AI-driven innovation, with work featured in journals such as _Nature_, _Frontiers_, and _Springer_.
-* **Industry Applications:** Deep experience delivering ML/AI solutions in industry settings, from medical imaging and predictive modeling to automated monitoring and signal processing. I have worked with life sciences, healthcare, manufacturing, and pharmaceutical clients, translating scientific insights into deployable systems.
-* **Engineering Management:** Leading engineering teams, setting technical direction, fostering best practices, and aligning engineering goals with business outcomes. Currently building and scaling cross-functional R&D team.
-
-## 🛠️ Projects
-
-- [Wavelets in the brain: Deep learning for non-invasive ICP monitoring](https://vdanilov.com/wavelets-in-the-brain/)
-- [AI dissects arterial risk: OCT plaque segmentation with deep learning](https://vdanilov.com/ai-dissects-arterial-risk/)
-- [Sales Pilot: AI-driven lead scoring at scale](https://vdanilov.com/sales-pilot/)
-- [Harnessing ML for laser ablation assessment in hyperspectral imaging](https://vdanilov.com/harnessing-ml-for-laser-ablation/)
-- [Tumor immune phenotype classification](https://vdanilov.com/tumor-immune-phenotype-classification/)
-- [Segmentation of microvascular features](https://vdanilov.com/segmentation-of-microvascular-features/)
-- [Explainable AI to identify pulmonary edema](https://vdanilov.com/explainable-ai-to-identify-pulmonary-edema/)
-- [ML-driven prosthetic heart valve design](https://vdanilov.com/ml-driven-prosthetic-heart-valve-design/)
-- [Deep segmentation for guiding surgical tools in 3D ultrasound](https://vdanilov.com/deep-segmentation-for-guiding-surgical-tools/)
-- [Automatic scoring of COVID-19 severity](https://vdanilov.com/automatic-scoring-of-covid-severity/)
-- [Guided X-ray diagnosis for COVID-19 and pneumonia](https://vdanilov.com/guided-x-ray-diagnosis/)
-- [Face Shield 3D: Instant face and ear defacing for CT and MRI](https://vdanilov.com/face-shield-3d/)
-- [Landmark tracking for safer valve implantation](https://vdanilov.com/landmark-tracking/)
-- [Deep learning stenosis detection in real time](https://vdanilov.com/deep-learning-stenosis-detection/)
-- [AI-powered microscopy: Detecting and counting cancer cells](https://vdanilov.com/ai-powered-microscopy/)
-- [Deep anatomy: High-precision 3D organ segmentation via V-net](https://vdanilov.com/deep-anatomy/)
-- [DeepVision wildfire tracking system in Siberia](https://vdanilov.com/deepvision-wildfire-tracking/)
-- [Ray-casting segmentation for convex anatomical structures in MRI](https://vdanilov.com/ray-casting-segmentation/)
-
-## 📖 Publications
-
-<details><summary>Journal Articles</summary>
-
-|                                                                                Title                                                                                |                                                           Journal                                                            | Quartile | IF  | Year |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------:|:---:|:----:|
-|                   [Optimized aortic root segmentation during transcatheter aortic valve implantation](https://doi.org/10.3389/fcvm.2025.1602780)                    |             [Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine)             |    Q1    | 5.8 | 2025 |
-|           [Segmentation and quantification of atherosclerotic plaques in optical coherence tomography](https://doi.org/10.1016/j.compbiomed.2025.111061)            |         [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)         |    Q1    | 7.7 | 2025 |
-|        [Uncovering unstable plaques: deep learning segmentation in optical coherence tomography](https://computeroptics.ru/eng/KO/Annot/KO49-5/490510e.html)        |                                 [Computer Optics](https://computeroptics.ru/eng/index.html)                                  |    Q3    | 1.2 | 2025 |
-|              [Advancing laser ablation assessment in hyperspectral imaging through machine learning](https://doi.org/10.1016/j.compbiomed.2024.108849)              |         [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)         |    Q1    | 7.7 | 2024 |
-| [ML-driven segmentation of microvascular features during histological examination of tissue-engineered vascular grafts](https://doi.org/10.3389/fbioe.2024.1411680) |    [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/journals/bioengineering-and-biotechnology)    |    Q1    | 5.7 | 2024 |
-|                            [Explainable AI to identify radiographic features of pulmonary edema](https://doi.org/10.1093/radadv/umae003)                            |                                    [Radiology Advances](https://academic.oup.com/radadv)                                     |    -     |  -  | 2024 |
-|          [Perfect prosthetic heart valve: generative design with machine learning, modeling, and optimization](https://doi.org/10.3389/fbioe.2023.1238130)          |    [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/journals/bioengineering-and-biotechnology)    |    Q1    | 5.7 | 2023 |
-|                        [Use of semi-synthetic data for catheter segmentation improvement](https://doi.org/10.1016/j.compmedimag.2023.102188)                        | [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) |    Q1    | 7.4 | 2023 |
-|              [FABRIKx: tackling the inverse kinematics problem of continuum robots with variable curvature](https://doi.org/10.3390/robotics11060128)               |                                      [Robotics](https://www.mdpi.com/journal/robotics)                                       |    Q1    | 3.4 | 2022 |
-|            [Automatic scoring of COVID-19 severity in X-ray imaging based on a novel deep learning workflow](https://doi.org/10.1038/s41598-022-15013-z)            |                                  [Nature Scientific Reports](https://www.nature.com/srep/)                                   |    Q1    | 5.0 | 2022 |
-|                         [Indirect supervision applied to COVID-19 and pneumonia classification](https://doi.org/10.1016/j.imu.2021.100835)                          |                [Informatics in Medicine](https://www.journals.elsevier.com/informatics-in-medicine-unlocked)                 |    Q2    | 3.5 | 2022 |
-|         [Aortography keypoint tracking for transcatheter aortic valve implantation based on multi-task learning](https://doi.org/10.3389/fcvm.2021.697737)          |             [Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine)             |    Q1    | 5.8 | 2021 |
-|                     [Real-time coronary artery stenosis detection based on modern neural networks](https://doi.org/10.1038/s41598-021-87174-2)                      |                                  [Nature Scientific Reports](https://www.nature.com/srep/)                                   |    Q1    | 5.0 | 2021 |
-|                       [Analysis of deep neural networks for detection of coronary artery stenosis](https://doi.org/10.1134/S0361768821030038)                       |                         [Programming and Computer Software](https://www.springer.com/journal/11086)                          |    Q3    | 1.4 | 2021 |
-|                         [Segmentation based on propagation of dynamically changing superpixels](https://doi.org/10.1134/S0361768820030044)                          |                         [Programming and Computer Software](https://www.springer.com/journal/11086)                          |    Q3    | 1.4 | 2020 |
-|                             [Feature selection algorithm based on PDF/PMF area difference](https://doi.org/10.1016/j.bspc.2019.101681)                              |  [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)  |    Q1    | 5.1 | 2019 |
-|             [Efficient workflow for automatic segmentation of the right heart based on 2D echocardiography](https://doi.org/10.1007/s10554-018-1314-4)              |                  [International Journal of Cardiovascular Imaging](https://www.springer.com/journal/10554)                   |    Q2    | 2.3 | 2018 |
-</details>
-
-<details><summary>Conference Proceedings</summary>
-
-|                                                                                   Title                                                                                    |                                                                             Conference                                                                              |           City           | Year |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:----:|
-|                  [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/ABC)                  |                 [European Conferences on Biomedical Optics](https://www.optica.org/events/topical_meetings/european_conferences_biomedical_optics/)                 |     Munich, Germany      | 2025 |
-| [Intracranial pressure and cerebral blood flow pulse dynamics in patients with idiopathic normal pressure hydrocephalus during Katzman infusion test](https://doi.org/XYZ) |                 [European Conferences on Biomedical Optics](https://www.optica.org/events/topical_meetings/european_conferences_biomedical_optics/)                 |     Munich, Germany      | 2025 |
-| [Hybrid convolutional and recurrent neural network for non-invasive intracranial pressure estimation from cerebral blood flow](https://doi.org/10.1364/BRAIN.2024.BTu3C.7) |                           [Optica Biophotonics Congress: Biomedical Optics](https://opg.optica.org/conference.cfm?meetingid=163&yr=2024)                            |   Miami, United States   | 2024 |
-|     [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-XLIV-2-W1-2021-33-2021)     | [Photogrammetric and computer vision techniques for video surveillance, biometrics and biomedicine](https://isprs-archives.copernicus.org/articles/XLIV-2-W1-2021/) |      Moscow, Russia      | 2021 |
-|            [Comparative study of deep learning models for automatic coronary stenosis detection in X-ray angiography](http://ceur-ws.org/Vol-2744/paper75.pdf)             |                                                          [GraphiCon](https://www.graphicon.ru/en/node/208)                                                          | Saint Petersburg, Russia | 2020 |
-|                           [Motion planning algorithm for continuum robots bending over obstacles](https://doi.org/10.1109/CTS48763.2019.8973282)                           |                            [International Conference on Control in Technical Systems](https://etu.ru/en/university/conferences/cts2019)                             | Saint Petersburg, Russia | 2020 |
-|                             [Ray-based segmentation algorithm for medical imaging](https://doi.org/10.5194/isprs-archives-XLII-2-W12-37-2019)                              |   [Photogrammetric and computer vision techniques for video surveillance, biometrics and biomedicine](https://isprs-archives.copernicus.org/articles/XLII-2-W12/)   |      Moscow, Russia      | 2019 |
-|                                [Inverse kinematics for steerable concentric continuum robots](https://doi.org/10.1007/978-981-13-9267-2_8)                                 |                                       [International Conference on Electromechanics and Robotics](https://guap.ru/en/zavread)                                       |      Kursk, Russia       | 2019 |
-|                             [FABRIK-based inverse kinematics for multi-section continuum robots](https://ieeexplore.ieee.org/document/8624888)                             |                                                  [Mechatronika](https://mechatronika.fel.cvut.cz/2018/index.html)                                                   |   Brno, Czech Republic   | 2019 |
-</details>
-
-<details><summary>Posts</summary>
-
-|                                                                                                    Title                                                                                                     |    Source     | Year |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----:|
-|                                               [Testing AI low-code platforms: What actually worked and what didn’t](https://symfa.com/blog/ai-low-code-tools)                                                |  Symfa Blog   | 2025 |
-|           [The future of business challenges: People + AI or People vs AI](https://www.linkedin.com/posts/viacheslav-danilov_the-future-of-business-challenges-activity-7315342704802959379-spfI)            |   LinkedIn    | 2025 |
-|                                      [Freelance tech trends: Top IT skills, pay rates, and regional demand](https://symfa.com/blog/top-skills-in-demand-in-gig-economy)                                      |  Symfa Blog   | 2025 |
-|                                    [Freelance pricing trends: Industry, location, and expertise insights](https://symfa.com/blog/insights-and-trends-in-the-gig-economy)                                     |  Symfa Blog   | 2025 |
-| [Transforming chaotic data into clarity: Practical insights and a streamlined pipeline](https://medium.com/@symfa_stories/from-data-chaos-to-clarity-streamlining-a-freelance-platform-dataset-96534c6af1fc) |    Medium     | 2024 |
-|                     [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine)                      | Quantori Blog | 2024 |
-</details>
-
-## 📁 Datasets
-
-- [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209)
-- [Histological dataset for microvascular segmentation of tissue-engineered vascular grafts](https://doi.org/10.5281/zenodo.10838383)
-- [Hyperspectral imaging dataset for laser thermal ablation monitoring in vital organs](https://doi.org/10.5281/zenodo.10444212)
-- [Dataset for detection and segmentation of the radiographic features of pulmonary edema](https://doi.org/10.5281/zenodo.8383776)
-- [Dataset for COVID-19 segmentation and severity scoring](https://data.mendeley.com/datasets/36fjrg9s69/1)
-- [Chest X-ray dataset for lung segmentation](https://data.mendeley.com/datasets/8gf9vpkhgy/1)
-- [Angiographic dataset for stenosis detection](https://data.mendeley.com/datasets/ydrm75xywg/2)
-- [Aortography keypoint tracking for TAVI](https://data.mendeley.com/datasets/pgynfy766g/2)
-
-## 📈 Stats
 
 <p align="center">
-    <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=false" align="center" height="175" ></a>
-    <a href="https://github.com/ViacheslavDanilov"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=false' align="center" height="175" ></a>
+  <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
+  <a href="mailto:viacheslav.v.danilov@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- View counter -->
+
+## 👨‍💻 About Me
+
+Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Computer Science and 10+ years of expertise spanning academia, industry, and R&D. I thrive at the intersection of research and engineering, bringing scientific rigor, hands-on development experience, and strategic vision to create impactful AI solutions.
+
+- 🔬 **Research:** Published in _Nature_, _Frontiers_, and _Springer_ with focus on medical imaging and deep learning
+- 🏭 **Industry:** Delivered ML/AI solutions for healthcare, life sciences, manufacturing, and business applications
+- 👥 **Leadership:** Building and scaling cross-functional R&D teams, setting technical direction
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+
+## ⭐ Featured Projects
+
+| Project | Category | Description |
+|:-------:|:--------:|:-----------:|
+| [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors |
+| [**Coronary Insight**](https://vdanilov.com/portfolio/coronary-insight) | 🩻 Medical Imaging | Deep learning pipeline for OCT plaque segmentation, enabling precise arterial risk assessment |
+| [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale |
+| [**PulmoVision**](https://vdanilov.com/portfolio/pulmovision) | 🩻 Medical Imaging | Explainable AI for detecting pulmonary edema features in chest X-rays |
+| [**HyperVision Ablation**](https://vdanilov.com/portfolio/hypervision-ablation) | 🔬 Biomedical Research | ML workflow for tissue ablation assessment in hyperspectral imaging |
+| [**SonoGuide**](https://vdanilov.com/portfolio/sonoguide) | 🏥 Clinical Support | Deep learning for surgical tool segmentation in 3D ultrasound (93.6% Dice) |
+
+<p align="center">
+  <a href="https://vdanilov.com/portfolio"><img src="https://img.shields.io/badge/View_All_Projects_→-3B82F6?style=for-the-badge" alt="View All Projects"/></a>
+</p>
+
+
+## 📖 Featured Publications
+
+| Type | Title | Venue | Year |
+|:----:|:-----:|:-----:|:----:|
+| 📄<br>Journal | [Segmentation and quantification of atherosclerotic plaques in OCT](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine (Q1, IF 7.7) | 2025 |
+| 📄<br>Journal | [Real-time coronary artery stenosis detection](https://doi.org/10.1038/s41598-021-87174-2) | Nature Scientific Reports (Q1, IF 5.0) | 2021 |
+| 🎤<br>Conference | [Non-invasive ICP estimation using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
+| 🎤<br>Conference | [Boosting segmentation with synthetic data generation](https://doi.org/10.5194/isprs-archives-XLIV-2-W1-2021-33-2021) | ISPRS Workshop on Computer Vision | 2021 |
+| 📝<br>Blog | [Testing AI low-code platforms: What worked and what didn't](https://symfa.com/blog/ai-low-code-tools) | Symfa Blog | 2025 |
+| 📝<br>Blog | [Harnessing AI for histopathology: Precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
+| 🗂️<br>Dataset | [Chest X-ray dataset for lung segmentation](https://doi.org/10.17632/8gf9vpkhgy.1) | Mendeley Data | 2022 |
+| 🗂️<br>Dataset | [Angiographic dataset for stenosis detection](https://doi.org/10.17632/ydrm75xywg.2) | Mendeley Data | 2021 |
+
+<p align="center">
+  <a href="https://vdanilov.com/publications"><img src="https://img.shields.io/badge/View_All_Publications_→-3B82F6?style=for-the-badge" alt="View All Publications"/></a>
+</p>
+
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6" height="170"></a>
+</p>
+
+
+## 💬 Let's Connect
+
+<p align="center">
+  <b>💡 Interested in collaborating on AI/ML projects?</b><br><br>
+  <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Visit_My_Website_→-3B82F6?style=for-the-badge" alt="Website"/></a>
+</p>
+
 <p align="right">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=flat-square&color=3B82F6" alt="Profile Views"/>
 </p>
