@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Lead+ML+Engineer;Research+Scientist;Tech+Lead;PhD+in+Computer+Science"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Tech+Lead;Engineering+Manager;Research+Scientist"></a>
 </p>
 
 <!-- Social & Contact Badges -->
