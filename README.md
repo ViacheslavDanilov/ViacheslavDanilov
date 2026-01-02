@@ -93,14 +93,13 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge&color=3B82F6"></a>
-</p>
-
-
 ## 💬 Let's Connect
 
 <p align="center">
   <b>💡 Interested in collaborating on AI/ML projects?</b><br><br>
   <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Visit_My_Website_→-3B82F6?style=for-the-badge" alt="Website"/></a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=flat-square&color=3B82F6" alt="Profile Views"/>
 </p>
