@@ -18,7 +18,6 @@
   <a href="mailto:viacheslav.v.danilov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -28,7 +27,6 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 - 🏭 **Industry:** Delivered ML/AI solutions for healthcare, life sciences, manufacturing, and business applications
 - 👥 **Leadership:** Building and scaling cross-functional R&D teams, setting technical direction
 
----
 
 ## 🛠️ Tech Stack
 
@@ -44,13 +42,12 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
----
 
 ## ⭐ Featured Projects
 
@@ -67,7 +64,6 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
   <a href="https://vdanilov.com/portfolio"><img src="https://img.shields.io/badge/View_All_Projects_→-3B82F6?style=for-the-badge" alt="View All Projects"/></a>
 </p>
 
----
 
 ## 📖 Featured Publications
 
@@ -95,8 +91,7 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
   <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6" height="170"></a>
 </p>
 
----
 
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=flat-square&color=3B82F6"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=for-the-badge&color=3B82F6"></a>
 </p>
