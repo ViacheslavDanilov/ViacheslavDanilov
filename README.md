@@ -94,10 +94,9 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&card_width=250&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3B82F6" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=default&title_color=3B82F6&icon_color=3B82F6&custom_title=Contributions" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=default&title_color=3B82F6" height="170"></a>
 </p>
-
 
 ## 💬 Let's Connect
 
