@@ -93,28 +93,9 @@ Experienced **Lead ML Engineer** and **Research Scientist** with a PhD in Comput
 
 ## 📈 GitHub Stats
 
-### Option 1: Clean White with Blue Accents
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff&title_color=3B82F6&icon_color=3B82F6&text_color=1f2937" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=donut&hide_border=true&bg_color=ffffff&title_color=3B82F6&text_color=1f2937" height="170"></a>
-</p>
-
-### Option 2: Soft Gray-White with Blue Accents
-<p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=3B82F6&icon_color=3B82F6&text_color=334155" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=donut&hide_border=true&bg_color=f8fafc&title_color=3B82F6&text_color=334155" height="170"></a>
-</p>
-
-### Option 3: White with Subtle Border
-<p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=3B82F6&icon_color=3B82F6&text_color=1e293b&ring_color=3B82F6" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=donut&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=3B82F6&text_color=1e293b" height="170"></a>
-</p>
-
-### Option 4: Default Theme (GitHub's Native Light)
-<p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=default&title_color=3B82F6&icon_color=3B82F6" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=donut&hide_border=true&theme=default&title_color=3B82F6" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=default&title_color=3B82F6&icon_color=3B82F6&custom_title=Contributions" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=default&title_color=3B82F6" height="170"></a>
 </p>
 
 ## 💬 Let's Connect
