@@ -20,15 +20,6 @@
 </p>
 
 
-## 👨‍💻 About Me
-
-**Lead AI/ML Engineer** and **Research Scientist** with a PhD in Computer Science and over 10 years across academia and industry. I take machine learning from first experiment to production: medical signal and image analysis, computer vision, time series, and LLM and RAG systems. I have led teams of developers and researchers, supervised PhD students and postdocs, and published nearly 50 peer-reviewed papers.
-
-- 🔬 **Research:** Published in _Nature_, _Frontiers_, and _Springer_ with focus on medical imaging and deep learning
-- 🏭 **Industry:** Delivered ML/AI solutions for healthcare, life sciences, manufacturing, and business applications
-- 👥 **Leadership:** Building and scaling cross-functional R&D teams, setting technical direction
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
