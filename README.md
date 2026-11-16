@@ -56,15 +56,15 @@
 
 | Project | Category | Description | Code |
 |:-------:|:--------:|:-----------:|:----:|
-| [**Video Bokeh**](https://vdanilov.com/portfolio/video-bokeh) | 🎞️ Computer Vision | Synthetic video with exact depth and layered bokeh for training depth-aware bokeh models, with a public dataset and a web demo | [GitHub](https://github.com/ViacheslavDanilov/layerwise-bokeh) |
-| [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors | |
-| [**Claim Assistant**](https://vdanilov.com/portfolio/claim-assistant) | 🛡️ InsurTech | Insurance claim intake automation with Azure Document Intelligence and GPT-5, with confidence-scored coverage analysis | |
+| [**LayerWise**](https://vdanilov.com/portfolio/video-bokeh) | 🎞️ Computer Vision | Synthetic video with exact depth, rendered bokeh and optical flow for training depth-aware bokeh models, with a public dataset and a web demo | [GitHub](https://github.com/ViacheslavDanilov/layerwise-bokeh) |
+| [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors | [GitHub](https://github.com/ViacheslavDanilov/safe-icp) |
+| [**Claim Assistant**](https://vdanilov.com/portfolio/claim-assistant) | 🛡️ InsurTech | Insurance claim intake automation with Azure Document Intelligence and GPT-5, with confidence-scored coverage analysis | [GitHub](https://github.com/Symfa-Inc/claim-assistant) |
 | [**HyperVision Ablation**](https://vdanilov.com/portfolio/hypervision-ablation) | 🔬 Biomedical Research | ML workflow for tissue ablation assessment in hyperspectral imaging | [GitHub](https://github.com/ViacheslavDanilov/hsi_analysis) |
-| [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale | |
+| [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale | - |
 | [**Coronary Insight**](https://vdanilov.com/portfolio/coronary-insight) | 🩻 Medical Imaging | Deep learning pipeline for OCT plaque segmentation, enabling precise arterial risk assessment | [GitHub](https://github.com/ViacheslavDanilov/oct_segmentation) |
-| [**Immune Profiler**](https://vdanilov.com/portfolio/immune-profiler) | 🔬 Biomedical Research | Tumor immune phenotype classification on histopathology images using HoVer-Net and AutoML | |
+| [**Immune Profiler**](https://vdanilov.com/portfolio/immune-profiler) | 🔬 Biomedical Research | Tumor immune phenotype classification on histopathology images using HoVer-Net and AutoML | - |
 | [**PulmoVision**](https://vdanilov.com/portfolio/pulmovision) | 🩻 Medical Imaging | Explainable AI for detecting pulmonary edema features in chest X-rays | [GitHub](https://github.com/ViacheslavDanilov/edema_quantification) |
-| [**SonoGuide**](https://vdanilov.com/portfolio/sonoguide) | 🏥 Clinical Support | Deep learning for surgical tool segmentation in 3D ultrasound (93.6% Dice) | |
+| [**SonoGuide**](https://vdanilov.com/portfolio/sonoguide) | 🏥 Clinical Support | Deep learning for surgical tool segmentation in 3D ultrasound (93.6% Dice) | - |
 
 <p align="center">
   <a href="https://vdanilov.com/portfolio"><img src="https://img.shields.io/badge/View_All_Projects_→-3B82F6?style=for-the-badge" alt="View All Projects"/></a>
