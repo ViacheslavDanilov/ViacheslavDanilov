@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-**Lead AI/ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science and over 10 years in academia and industry. I take machine learning from first experiment to production: medical signal and image analysis, computer vision, time series, and LLM and RAG systems. I led teams of developers and researchers, supervised PhD students and postdocs, and published 48 peer-reviewed papers.
+**Lead AI/ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science and over 10 years in academia and industry. I take machine learning from first experiment to production: medical signal and image analysis, computer vision, time series, and LLM and RAG systems. I led teams of developers and researchers, supervised PhD students and postdocs, and published 49 peer-reviewed papers.
 
 
 ## 🛠️ Tech Stack
@@ -73,7 +73,7 @@
 
 ## 📖 Featured Publications
 
-Selected from 48 peer-reviewed publications and 8 open datasets: first author on 32, senior author on 4, 14 in Q1 journals.
+Selected from 49 peer-reviewed publications and 9 open datasets: first author on 32, senior author on 4, 13 in Q1 journals.
 
 | Type | Title | Venue | Year |
 |:----:|:------|:------|:----:|
@@ -85,7 +85,7 @@ Selected from 48 peer-reviewed publications and 8 open datasets: first author on
 | 🎤<br>Conference | [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | ECBO | 2025 |
 | 🎤<br>Conference | [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-xliv-2-w1-2021-33-2021) | ISPRS Archives | 2021 |
 | 📝<br>Blog | [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
-| 🗂️<br>Dataset | [LayerWise: synthetic video with exact depth, optical flow and rendered bokeh](https://huggingface.co/datasets/vdanilov/layerwise-bokeh) | Hugging Face | 2026 |
+| 🗂️<br>Dataset | [LayerWise: Synthetic video with exact depth, optical flow and rendered bokeh](https://huggingface.co/datasets/vdanilov/layerwise-bokeh) | Hugging Face | 2026 |
 | 🗂️<br>Dataset | [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209) | Zenodo | 2025 |
 | 🗂️<br>Dataset | [Chest X-ray dataset for lung segmentation](https://doi.org/10.17632/8gf9vpkhgy) | Mendeley Data | 2022 |
 
