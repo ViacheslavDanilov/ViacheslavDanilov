@@ -73,16 +73,19 @@
 
 ## 📖 Featured Publications
 
+Selected from 48 peer-reviewed publications and 8 open datasets: first author on 32, senior author on 4, 14 in Q1 journals.
+
 | Type | Title | Venue | Year |
-|:----:|:-----:|:-----:|:----:|
-| 📄<br>Journal | [Segmentation and quantification of atherosclerotic plaques in OCT](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine (Q1, IF 7.7) | 2025 |
-| 📄<br>Journal | [Real-time coronary artery stenosis detection](https://doi.org/10.1038/s41598-021-87174-2) | Nature Scientific Reports (Q1, IF 5.0) | 2021 |
-| 🎤<br>Conference | [Non-invasive ICP estimation using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
-| 🎤<br>Conference | [Boosting segmentation with synthetic data generation](https://doi.org/10.5194/isprs-archives-XLIV-2-W1-2021-33-2021) | ISPRS Workshop on Computer Vision | 2021 |
-| 📝<br>Blog | [Testing AI low-code platforms: What worked and what didn't](https://symfa.com/blog/ai-low-code-tools) | Symfa Blog | 2025 |
-| 📝<br>Blog | [Harnessing AI for histopathology: Precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
-| 🗂️<br>Dataset | [Chest X-ray dataset for lung segmentation](https://doi.org/10.17632/8gf9vpkhgy) | Mendeley Data | 2022 |
-| 🗂️<br>Dataset | [Angiographic dataset for stenosis detection](https://doi.org/10.17632/ydrm75xywg) | Mendeley Data | 2021 |
+|:----:|:------|:------|:----:|
+| 📄<br>Journal | [Joint aortic root segmentation and landmark localization on intraoperative fluoroscopy for TAVI guidance](https://doi.org/10.3389/fcvm.2026.1886469) | Frontiers in Cardiovascular Medicine | 2026 |
+| 📄<br>Journal | [Segmentation and quantification of atherosclerotic plaques in optical coherence tomography](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine | 2025 |
+| 📄<br>Journal | [Explainable AI to identify radiographic features of pulmonary edema](https://doi.org/10.1093/radadv/umae003) | Radiology Advances | 2024 |
+| 📄<br>Journal | [Real-time coronary artery stenosis detection based on modern neural networks](https://doi.org/10.1038/s41598-021-87174-2) | Scientific Reports | 2021 |
+| 🎤<br>Conference | [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
+| 🎤<br>Conference | [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-xliv-2-w1-2021-33-2021) | International Workshop on Photogrammetric & Computer Vision Techniques for Video Surveillance, Biometrics and Biomedicine | 2021 |
+| 📝<br>Blog | [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
+| 🗂️<br>Dataset | [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209) | Zenodo | 2025 |
+| 🗂️<br>Dataset | [Histological dataset for microvascular segmentation of tissue-engineered vascular grafts](https://doi.org/10.5281/zenodo.10838383) | Zenodo | 2024 |
 
 <p align="center">
   <a href="https://vdanilov.com/publications"><img src="https://img.shields.io/badge/View_All_Publications_→-3B82F6?style=for-the-badge" alt="View All Publications"/></a>
