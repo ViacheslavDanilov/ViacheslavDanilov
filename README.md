@@ -8,11 +8,11 @@
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Website-vdanilov.com-3B82F6?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
-  <a href="https://drive.google.com/file/d/1viI3o1RBDoreQcbCwe5zc2NTWpxU7ouk/view"><img src="https://img.shields.io/badge/Download_CV-3B82F6?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
+  <a href="https://drive.google.com/file/d/1viI3o1RBDoreQcbCwe5zc2NTWpxU7ouk/view"><img src="https://img.shields.io/badge/CV-3B82F6?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img src="https://img.shields.io/badge/-LinkedIn-475569?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/viacheslav-danilov/"><img src="https://img.shields.io/badge/-LinkedIn-475569?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDE2IDMyTDMxLjkgMzJDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zTDAgNDQ3LjdDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEw0MTYgNDgwYzE3LjYgMCAzMi0xNC41IDMyLTMyLjNsMC0zODMuNEM0NDggNDYuNSA0MzMuNiAzMiA0MTYgMzJ6TTEzNS40IDQxNmwtNjYuNCAwIDAtMjEzLjggNjYuNSAwIDAgMjEzLjgtLjEgMHpNMTAyLjIgOTZhMzguNSAzOC41IDAgMSAxIDAgNzcgMzguNSAzOC41IDAgMSAxIDAtNzd6TTM4NC4zIDQxNmwtNjYuNCAwIDAtMTA0YzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlsMCAxMDUuOC02Ni40IDAgMC0yMTMuOCA2My43IDAgMCAyOS4yIC45IDBjOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlsMCAxMTcuMnoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/ViacheslavDanilov"><img src="https://img.shields.io/badge/GitHub-374151?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=SJidGZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-475569?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;
   <a href="https://www.researchgate.net/profile/Viacheslav-Danilov-2"><img src="https://img.shields.io/badge/-ResearchGate-374151?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GCP-4F46E5?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/-AWS-475569?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-AWS-475569?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTgwLjQgMjAzYy0uNyAyMi42IDEwLjYgMzIuNyAxMC45IDM5LS4xIDEuMy0uNiAyLjUtMS4zIDMuNnMtMS43IDItMi44IDIuNmwtMTIuOCA5Yy0xLjcgMS4yLTMuNiAxLjgtNS42IDEuOS0uNCAwLTguMiAxLjgtMjAuNS0yNS42LTcuNSA5LjQtMTcgMTYuOS0yNy45IDIycy0yMi43IDcuNy0zNC43IDcuNWMtMTYuMyAuOS02MC40LTkuMi01OC4xLTU2LjItMS42LTM4LjMgMzQuMS02Mi4xIDcwLjktNjAgNy4xIDAgMjEuNiAuNCA0NyA2LjNsMC0xNS42YzIuNy0yNi41LTE0LjctNDctNDQuOC00My45LTIuNCAwLTE5LjQtLjUtNDUuOCAxMC4xLTcuNCAzLjQtOC4zIDIuOC0xMC44IDIuOC03LjQgMC00LjQtMjEuNS0yLjktMjQuMiA1LjItNi40IDM1LjktMTguNCA2NS45LTE4LjIgMjAuMS0xLjggNDAuMSA0LjQgNTUuNyAxNy4zIDYuMyA3LjEgMTEuMiAxNS40IDE0LjIgMjQuNHM0LjIgMTguNSAzLjUgMjhsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40TDIwMi40IDgzLjRjLTEtMi44LTEuNi01LjYtMS45LTguNi0uMi0xLjIgLjEtMi40IC44LTMuNHMxLjgtMS42IDMtMS44Yy4yIDAtMi4xIDAgMjIuMiAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40TDI3NC45IDIyMC44IDMwOC4xIDgwYy41LTMuMiAyLjktMTEuMSAxMi44LTEwLjJsMTcuMiAwYzIuMi0uMiAxMS4xLS41IDEyLjcgMTAuNEwzODQuMSAyMjIuNyA0MjEgODAuMWMuNS0yLjIgMi43LTExLjQgMTIuNy0xMC40bDE5LjcgMGMuOS0uMSA2LjItLjggNS4zIDguNi0uNCAxLjggMy40LTEwLjctNTIuOCAxNjkuOS0xLjEgNS41LTQuOCAxMS4xLTEyLjcgMTAuNGwtMTguNyAwYy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjdsLTMzLjItMTM3LjEtMzIuOCAxMzdjLS4yIDEuMS0xLjcgMTEuOS0xMi43IDEwLjdsLTE4LjMgMCAwIDB6bTI3My41IDUuNmMtNS45IDAtMzMuOS0uMy01Ny40LTEyLjMtMi4zLTEtNC4zLTIuNi01LjctNC44cy0yLjEtNC42LTIuMS03LjFsMC0xMC43YzAtOC41IDYuMi02LjkgOC44LTUuOSAxMCA0LjEgMTYuNSA3LjEgMjguOCA5LjYgMzYuNyA3LjUgNTIuOC0yLjMgNTYuNy00LjUgMTMuMi03LjggMTQuMi0yNS43IDUuMy0zNC45LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUtNTYuMiA2OS41LTU2IDEyLjcgMCA0Ni40IDQuMSA1NS42IDE1LjYgMS40IDIuMSAyIDQuNiAxLjkgN2wwIDEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjYgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4yIDcuOSA0OC4zIDQuMyA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjItMjU4LjUgNzkuMi0xMTcuMSAuOC0yMzAuMy00Mi4zLTMxNy4zLTEyMC43LTYuNS01LjktLjgtMTQgNy4yLTkuNSA5Ni41IDU1LjIgMjA1LjcgODQuMiAzMTYuOSA4NC4xIDgzLS40IDE2NS4xLTE3LjMgMjQxLjYtNDkuNSAxMS44LTUgMjEuOCA3LjggMTAuMSAxNi40em0yOS4yLTMzLjNjLTktMTEuNS01OS4zLTUuNC04MS44LTIuNy02LjggLjgtNy45LTUuMS0xLjgtOS41IDQwLjEtMjguMiAxMDUuOS0yMC4xIDExMy40LTEwLjYgNy41IDkuNS0yLjEgNzUuNC0zOS42IDEwNi45LTUuOCA0LjktMTEuMyAyLjMtOC43LTQuMSA4LjQtMjEuMyAyNy40LTY4LjUgMTguNC04MHoiLz48L3N2Zz4%3D" alt="AWS"/>
   <img src="https://img.shields.io/badge/MLflow-3B82F6?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/W%26B-0EA5E9?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases"/>
   <img src="https://img.shields.io/badge/Streamlit-4F46E5?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
@@ -54,14 +54,17 @@
 
 ## ⭐ Featured Projects
 
-| Project | Category | Description |
-|:-------:|:--------:|:-----------:|
-| [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors |
-| [**Coronary Insight**](https://vdanilov.com/portfolio/coronary-insight) | 🩻 Medical Imaging | Deep learning pipeline for OCT plaque segmentation, enabling precise arterial risk assessment |
-| [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale |
-| [**PulmoVision**](https://vdanilov.com/portfolio/pulmovision) | 🩻 Medical Imaging | Explainable AI for detecting pulmonary edema features in chest X-rays |
-| [**HyperVision Ablation**](https://vdanilov.com/portfolio/hypervision-ablation) | 🔬 Biomedical Research | ML workflow for tissue ablation assessment in hyperspectral imaging |
-| [**SonoGuide**](https://vdanilov.com/portfolio/sonoguide) | 🏥 Clinical Support | Deep learning for surgical tool segmentation in 3D ultrasound (93.6% Dice) |
+| Project | Category | Description | Code |
+|:-------:|:--------:|:-----------:|:----:|
+| [**LayerWise**](https://vdanilov.com/portfolio/layerwise) | 🎞️ Computer Vision | Synthetic video with exact depth, rendered bokeh and optical flow for training depth-aware bokeh models, with a public dataset and a web demo | [GitHub](https://github.com/ViacheslavDanilov/layerwise-bokeh) |
+| [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors | [GitHub](https://github.com/ViacheslavDanilov/safe-icp) |
+| [**Claim Assistant**](https://vdanilov.com/portfolio/claim-assistant) | 🛡️ InsurTech | Insurance claim intake automation with Azure Document Intelligence and GPT-5, with confidence-scored coverage analysis | [GitHub](https://github.com/Symfa-Inc/claim-assistant) |
+| [**HyperVision Ablation**](https://vdanilov.com/portfolio/hypervision-ablation) | 🔬 Biomedical Research | ML workflow for tissue ablation assessment in hyperspectral imaging | [GitHub](https://github.com/ViacheslavDanilov/hsi_analysis) |
+| [**Sales Pilot**](https://vdanilov.com/portfolio/sales-pilot) | 📊 Business | AI-powered lead scoring using hybrid heuristics and OpenAI embeddings at scale | [GitHub](https://github.com/Symfa-Inc/lead-scoring) |
+| [**Coronary Insight**](https://vdanilov.com/portfolio/coronary-insight) | 🩻 Medical Imaging | Deep learning pipeline for OCT plaque segmentation, enabling precise arterial risk assessment | [GitHub](https://github.com/ViacheslavDanilov/oct_segmentation) |
+| [**Immune Profiler**](https://vdanilov.com/portfolio/immune-profiler) | 🔬 Biomedical Research | Tumor immune phenotype classification on histopathology images using HoVer-Net and AutoML | - |
+| [**PulmoVision**](https://vdanilov.com/portfolio/pulmovision) | 🩻 Medical Imaging | Explainable AI for detecting pulmonary edema features in chest X-rays | [GitHub](https://github.com/ViacheslavDanilov/edema_quantification) |
+| [**SonoGuide**](https://vdanilov.com/portfolio/sonoguide) | 🏥 Clinical Support | Deep learning for surgical tool segmentation in 3D ultrasound (93.6% Dice) | - |
 
 <p align="center">
   <a href="https://vdanilov.com/portfolio"><img src="https://img.shields.io/badge/View_All_Projects_→-3B82F6?style=for-the-badge" alt="View All Projects"/></a>
@@ -70,16 +73,21 @@
 
 ## 📖 Featured Publications
 
+Selected from 48 peer-reviewed publications and 8 open datasets: first author on 32, senior author on 4, 14 in Q1 journals.
+
 | Type | Title | Venue | Year |
-|:----:|:-----:|:-----:|:----:|
-| 📄<br>Journal | [Segmentation and quantification of atherosclerotic plaques in OCT](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine (Q1, IF 7.7) | 2025 |
-| 📄<br>Journal | [Real-time coronary artery stenosis detection](https://doi.org/10.1038/s41598-021-87174-2) | Nature Scientific Reports (Q1, IF 5.0) | 2021 |
-| 🎤<br>Conference | [Non-invasive ICP estimation using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
-| 🎤<br>Conference | [Boosting segmentation with synthetic data generation](https://doi.org/10.5194/isprs-archives-XLIV-2-W1-2021-33-2021) | ISPRS Workshop on Computer Vision | 2021 |
-| 📝<br>Blog | [Testing AI low-code platforms: What worked and what didn't](https://symfa.com/blog/ai-low-code-tools) | Symfa Blog | 2025 |
-| 📝<br>Blog | [Harnessing AI for histopathology: Precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
+|:----:|:------|:------|:----:|
+| 📄<br>Journal | [Joint aortic root segmentation and landmark localization on intraoperative fluoroscopy for TAVI guidance](https://doi.org/10.3389/fcvm.2026.1886469) | Frontiers in Cardiovascular Med. | 2026 |
+| 📄<br>Journal | [Segmentation and quantification of atherosclerotic plaques in optical coherence tomography](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine | 2025 |
+| 📄<br>Journal | [Perfect prosthetic heart valve: Generative design with machine learning, modeling, and optimization](https://doi.org/10.3389/fbioe.2023.1238130) | Frontiers in Bioeng. and Biotechnol. | 2023 |
+| 📄<br>Journal | [Automatic scoring of COVID-19 severity in X-ray imaging based on a novel deep learning workflow](https://doi.org/10.1038/s41598-022-15013-z) | Scientific Reports | 2022 |
+| 📄<br>Journal | [Real-time coronary artery stenosis detection based on modern neural networks](https://doi.org/10.1038/s41598-021-87174-2) | Scientific Reports | 2021 |
+| 🎤<br>Conference | [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | ECBO | 2025 |
+| 🎤<br>Conference | [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-xliv-2-w1-2021-33-2021) | ISPRS Archives | 2021 |
+| 📝<br>Blog | [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
+| 🗂️<br>Dataset | [LayerWise: synthetic video with exact depth, optical flow and rendered bokeh](https://huggingface.co/datasets/vdanilov/layerwise-bokeh) | Hugging Face | 2026 |
+| 🗂️<br>Dataset | [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209) | Zenodo | 2025 |
 | 🗂️<br>Dataset | [Chest X-ray dataset for lung segmentation](https://doi.org/10.17632/8gf9vpkhgy) | Mendeley Data | 2022 |
-| 🗂️<br>Dataset | [Angiographic dataset for stenosis detection](https://doi.org/10.17632/ydrm75xywg) | Mendeley Data | 2021 |
 
 <p align="center">
   <a href="https://vdanilov.com/publications"><img src="https://img.shields.io/badge/View_All_Publications_→-3B82F6?style=for-the-badge" alt="View All Publications"/></a>
@@ -90,17 +98,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=default&title_color=3B82F6&icon_color=3B82F6&custom_title=Contributions" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=default&title_color=3B82F6" height="170"></a>
-</p>
-
-## 💬 Let's Connect
-
-<p align="center">
-  <b>💡 Interested in collaborating on AI/ML projects?</b><br><br>
-  <a href="https://vdanilov.com"><img src="https://img.shields.io/badge/Visit_My_Website_→-3B82F6?style=for-the-badge" alt="Website"/></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ViacheslavDanilov&style=flat-square&color=3B82F6" alt="Profile Views"/>
+  <a href="https://github.com/ViacheslavDanilov">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=E2E8F0&custom_title=Contributions">
+      <img src="https://github-stats-extended.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=334155&custom_title=Contributions" height="170" alt="GitHub contributions">
+    </picture>
+  </a>
+  <a href="https://github.com/ViacheslavDanilov">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=transparent&title_color=3B82F6&text_color=E2E8F0">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=transparent&title_color=3B82F6&text_color=334155" height="170" alt="Top languages">
+    </picture>
+  </a>
 </p>
