@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-**Lead AI/ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science and over 10 years in academia and industry. I take machine learning from first experiment to production: medical signal and image analysis, computer vision, time series, and LLM and RAG systems. I led teams of developers and researchers, supervised PhD students and postdocs, and published 48 peer-reviewed papers.
+**Lead AI/ML Engineer** and **Senior Research Scientist** with a PhD in Computer Science and over 10 years in academia and industry. I take machine learning from first experiment to production: medical signal and image analysis, computer vision, time series, and LLM and RAG systems. I led teams of developers and researchers, supervised PhD students and postdocs, and published 49 peer-reviewed papers.
 
 
 ## 🛠️ Tech Stack
@@ -73,7 +73,7 @@
 
 ## 📖 Featured Publications
 
-Selected from 48 peer-reviewed publications and 8 open datasets: first author on 32, senior author on 4, 14 in Q1 journals.
+Selected from 49 peer-reviewed publications and 9 open datasets: first author on 32, senior author on 4, 13 in Q1 journals.
 
 | Type | Title | Venue | Year |
 |:----:|:------|:------|:----:|
