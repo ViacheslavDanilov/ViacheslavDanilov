@@ -20,9 +20,10 @@ The README repeats some of its facts, so a change there may need the same change
   repository the owner chose to show, and holds a hyphen where there is none
 - The "Featured Publications" table is a selection, not the full list: a few articles, two
   conferences, one blog post and three datasets (the two the CV prints, picked by downloads, and the
-  newest), newest first within each type. Titles are the site's wording in full, never shortened. A venue whose full name does not fit on two lines in the table takes the short
-  form it is cited by: the ISO abbreviation for a journal, the acronym for a conference or
-  proceedings (`Front. Cardiovasc. Med.`, `ECBO`, `ISPRS Archives`). Every other venue stays in full.
+  newest), newest first within each type. Titles are the site's wording in full, never shortened. A venue whose full name does not fit on two lines in the table is shortened as
+  little as it takes: a journal keeps its name and abbreviates the last word (`Frontiers in
+  Cardiovascular Med.`), a conference or proceedings takes the name it is cited by (`ECBO`,
+  `ISPRS Archives`). Every other venue stays in full.
   Check the rendered table on github.com at 846 px, the width of the profile page. Each row links a DOI or a page that exists. Do not add
   journal metrics such as impact factor: the site does not state them
 - The sentence above the table repeats the site's summary line, with the counts from `stats` in
