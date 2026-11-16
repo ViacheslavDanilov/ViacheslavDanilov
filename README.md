@@ -84,8 +84,9 @@ Selected from 48 peer-reviewed publications and 8 open datasets: first author on
 | 🎤<br>Conference | [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
 | 🎤<br>Conference | [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-xliv-2-w1-2021-33-2021) | International Workshop on Photogrammetric & Computer Vision Techniques for Video Surveillance, Biometrics and Biomedicine | 2021 |
 | 📝<br>Blog | [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
+| 🗂️<br>Dataset | [LayerWise: synthetic video with exact depth, optical flow and rendered bokeh](https://huggingface.co/datasets/vdanilov/layerwise-bokeh) | Hugging Face | 2026 |
 | 🗂️<br>Dataset | [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209) | Zenodo | 2025 |
-| 🗂️<br>Dataset | [Histological dataset for microvascular segmentation of tissue-engineered vascular grafts](https://doi.org/10.5281/zenodo.10838383) | Zenodo | 2024 |
+| 🗂️<br>Dataset | [Chest X-ray dataset for lung segmentation](https://doi.org/10.17632/8gf9vpkhgy) | Mendeley Data | 2022 |
 
 <p align="center">
   <a href="https://vdanilov.com/publications"><img src="https://img.shields.io/badge/View_All_Publications_→-3B82F6?style=for-the-badge" alt="View All Publications"/></a>

@@ -19,7 +19,8 @@ The README repeats some of its facts, so a change there may need the same change
   `lib/projects.js`, in the site's order, under the name the site uses. The Code column links the
   repository the owner chose to show, and holds a hyphen where there is none
 - The "Featured Publications" table is a selection, not the full list: a few articles, two
-  conferences, one blog post and two datasets, newest first within each type. Titles and venues are
+  conferences, one blog post and three datasets (the two the CV prints, picked by downloads, and the
+  newest), newest first within each type. Titles and venues are
   the site's wording in full, never shortened. Each row links a DOI or a page that exists. Do not add
   journal metrics such as impact factor: the site does not state them
 - The sentence above the table repeats the site's summary line, with the counts from `stats` in
