@@ -18,11 +18,11 @@ The README repeats some of its facts, so a change there may need the same change
 - The "Featured Projects" table lists the projects the site marks `featured: true` in
   `lib/projects.js`, in the site's order, under the name the site uses. The Code column links the
   repository the owner chose to show, and holds a hyphen where there is none
-- The "Featured Publications" table is a selection, not the full list: a few articles, two
-  conferences, one blog post and two datasets, newest first within each type. Titles and venues are
+- The "Featured Publications" list is a selection, not the full list: a few articles, two
+  conferences, one blog post and two datasets, newest first within each type, grouped under a bold label per type. Titles and venues are
   the site's wording in full, never shortened. Each row links a DOI or a page that exists. Do not add
   journal metrics such as impact factor: the site does not state them
-- The sentence above the table repeats the site's summary line, with the counts from `stats` in
+- The sentence above the list repeats the site's summary line, with the counts from `stats` in
   `lib/publications.generated.json`. Update the counts after the site's publications sync
 - Order: the site pull request first. Once it has merged, this README follows
 
