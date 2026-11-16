@@ -56,7 +56,7 @@
 
 | Project | Category | Description | Code |
 |:-------:|:--------:|:-----------:|:----:|
-| [**LayerWise**](https://vdanilov.com/portfolio/video-bokeh) | 🎞️ Computer Vision | Synthetic video with exact depth, rendered bokeh and optical flow for training depth-aware bokeh models, with a public dataset and a web demo | [GitHub](https://github.com/ViacheslavDanilov/layerwise-bokeh) |
+| [**LayerWise**](https://vdanilov.com/portfolio/layerwise) | 🎞️ Computer Vision | Synthetic video with exact depth, rendered bokeh and optical flow for training depth-aware bokeh models, with a public dataset and a web demo | [GitHub](https://github.com/ViacheslavDanilov/layerwise-bokeh) |
 | [**Deep BrainWatch**](https://vdanilov.com/portfolio/deep-brainwatch) | 🏥 Medical Devices | Non-invasive ICP monitoring using deep learning on cerebral blood flow signals from near-infrared sensors | [GitHub](https://github.com/ViacheslavDanilov/safe-icp) |
 | [**Claim Assistant**](https://vdanilov.com/portfolio/claim-assistant) | 🛡️ InsurTech | Insurance claim intake automation with Azure Document Intelligence and GPT-5, with confidence-scored coverage analysis | [GitHub](https://github.com/Symfa-Inc/claim-assistant) |
 | [**HyperVision Ablation**](https://vdanilov.com/portfolio/hypervision-ablation) | 🔬 Biomedical Research | ML workflow for tissue ablation assessment in hyperspectral imaging | [GitHub](https://github.com/ViacheslavDanilov/hsi_analysis) |
