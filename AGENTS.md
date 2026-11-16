@@ -20,8 +20,9 @@ The README repeats some of its facts, so a change there may need the same change
   repository the owner chose to show, and holds a hyphen where there is none
 - The "Featured Publications" table is a selection, not the full list: a few articles, two
   conferences, one blog post and three datasets (the two the CV prints, picked by downloads, and the
-  newest), newest first within each type. Titles and venues are
-  the site's wording in full, never shortened. Each row links a DOI or a page that exists. Do not add
+  newest), newest first within each type. Titles are the site's
+  wording in full, never shortened. A venue is too, except one whose full name is long (a workshop
+  name over a line): it takes the short name the work is cited by, such as `ISPRS Archives`. Each row links a DOI or a page that exists. Do not add
   journal metrics such as impact factor: the site does not state them
 - The sentence above the table repeats the site's summary line, with the counts from `stats` in
   `lib/publications.generated.json`. Update the counts after the site's publications sync

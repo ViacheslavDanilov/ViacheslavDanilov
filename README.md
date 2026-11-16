@@ -82,7 +82,7 @@ Selected from 48 peer-reviewed publications and 8 open datasets: first author on
 | 📄<br>Journal | [Explainable AI to identify radiographic features of pulmonary edema](https://doi.org/10.1093/radadv/umae003) | Radiology Advances | 2024 |
 | 📄<br>Journal | [Real-time coronary artery stenosis detection based on modern neural networks](https://doi.org/10.1038/s41598-021-87174-2) | Scientific Reports | 2021 |
 | 🎤<br>Conference | [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | European Conferences on Biomedical Optics | 2025 |
-| 🎤<br>Conference | [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-xliv-2-w1-2021-33-2021) | International Workshop on Photogrammetric & Computer Vision Techniques for Video Surveillance, Biometrics and Biomedicine | 2021 |
+| 🎤<br>Conference | [Boosting segmentation accuracy of the deep learning models based on the synthetic data generation](https://doi.org/10.5194/isprs-archives-xliv-2-w1-2021-33-2021) | ISPRS Archives | 2021 |
 | 📝<br>Blog | [Harnessing AI for histopathology: A leap towards precision medicine](https://quantori.com/blog/harnessing-ai-for-histopathology-a-leap-towards-precision-medicine) | Quantori Blog | 2024 |
 | 🗂️<br>Dataset | [LayerWise: synthetic video with exact depth, optical flow and rendered bokeh](https://huggingface.co/datasets/vdanilov/layerwise-bokeh) | Hugging Face | 2026 |
 | 🗂️<br>Dataset | [OCT dataset for segmentation of atherosclerotic plaque morphological features](https://doi.org/10.5281/zenodo.14478209) | Zenodo | 2025 |
