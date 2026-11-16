@@ -90,8 +90,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=default&title_color=3B82F6&icon_color=3B82F6&custom_title=Contributions" height="170"></a>
-  <a href="https://github.com/ViacheslavDanilov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=default&title_color=3B82F6" height="170"></a>
+  <a href="https://github.com/ViacheslavDanilov">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=E2E8F0&custom_title=Contributions">
+      <img src="https://github-stats-extended.vercel.app/api?username=ViacheslavDanilov&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=334155&custom_title=Contributions" height="170" alt="GitHub contributions">
+    </picture>
+  </a>
+  <a href="https://github.com/ViacheslavDanilov">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=transparent&title_color=3B82F6&text_color=E2E8F0">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViacheslavDanilov&hide=jupyter%20notebook&layout=normal&hide_border=true&theme=transparent&title_color=3B82F6&text_color=334155" height="170" alt="Top languages">
+    </picture>
+  </a>
 </p>
 
 ## 💬 Let's Connect
