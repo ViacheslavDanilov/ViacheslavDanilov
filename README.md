@@ -79,7 +79,7 @@ Selected from 48 peer-reviewed publications and 8 open datasets: first author on
 |:----:|:------|:------|:----:|
 | 📄<br>Journal | [Joint aortic root segmentation and landmark localization on intraoperative fluoroscopy for TAVI guidance](https://doi.org/10.3389/fcvm.2026.1886469) | Frontiers in Cardiovascular Med. | 2026 |
 | 📄<br>Journal | [Segmentation and quantification of atherosclerotic plaques in optical coherence tomography](https://doi.org/10.1016/j.compbiomed.2025.111061) | Computers in Biology and Medicine | 2025 |
-| 📄<br>Journal | [Perfect prosthetic heart valve: Generative design with machine learning, modeling, and optimization](https://doi.org/10.3389/fbioe.2023.1238130) | Frontiers in Bioengineering and Biotechnology | 2023 |
+| 📄<br>Journal | [Perfect prosthetic heart valve: Generative design with machine learning, modeling, and optimization](https://doi.org/10.3389/fbioe.2023.1238130) | Frontiers in Bioeng. and Biotechnol. | 2023 |
 | 📄<br>Journal | [Automatic scoring of COVID-19 severity in X-ray imaging based on a novel deep learning workflow](https://doi.org/10.1038/s41598-022-15013-z) | Scientific Reports | 2022 |
 | 📄<br>Journal | [Real-time coronary artery stenosis detection based on modern neural networks](https://doi.org/10.1038/s41598-021-87174-2) | Scientific Reports | 2021 |
 | 🎤<br>Conference | [Non-invasive intracranial pressure estimation from cerebral blood flow dynamics using wavelet-based deep learning](https://doi.org/10.1364/ECBO.2025.W5B.5) | ECBO | 2025 |
