@@ -19,8 +19,8 @@ The README repeats some of its facts, so a change there may need the same change
   `lib/projects.js`, in the site's order, under the name the site uses. The Code column links the
   repository the owner chose to show, and holds a hyphen where there is none
 - The "Featured Publications" table is a selection, not the full list: the five journal articles
-  the CV prints, two conferences, one blog post and three datasets (the two the CV prints, picked by
-  downloads, and the newest), newest first within each type. Titles are the site's wording in full, never shortened. A venue whose full name does not fit on two lines in the table is shortened as
+  the CV prints, two conferences, one blog post and three datasets (the newest, then the two others with the
+  most downloads), newest first within each type. Titles are the site's wording in full, never shortened. A venue whose full name does not fit on two lines in the table is shortened as
   little as it takes: a journal keeps its name and abbreviates its last words (`Frontiers in
   Cardiovascular Med.`, `Frontiers in Bioeng. and Biotechnol.`), a conference or proceedings takes the name it is cited by (`ECBO`,
   `ISPRS Archives`). Every other venue stays in full.
